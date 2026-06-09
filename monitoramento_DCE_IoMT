@@ -1,0 +1,182 @@
+"""
+Projeto: Monitoramento Remoto e Detecção de Crises Epiléticas via IoMT
+Autor: Yuri Fonseca da Silva
+Descrição: Pipeline completo de simulação, limpeza (Edge Computing) e análise preditiva de dados biométricos (Acelerometria e EMG) para previsão de crises convulsivas baseadas em estresse e privação de sono.
+"""
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy.signal import medfilt, welch
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import confusion_matrix
+
+# ==========================================
+# PARÂMETROS GLOBAIS (Configurações do Sistema)
+# ==========================================
+TEMPO_MONITORAMENTO_SEG = 20
+TAXA_AMOSTRAGEM_HZ = 100
+JANELA_FILTRO_MEDIANA = 15
+JANELA_Z_SCORE = 50
+LIMIAR_Z_SCORE_CRITICO = 3.5
+LIMIAR_EMG_CRITICO = 1.8
+RANDOM_SEED = 42
+
+# Configuração de estilo visual
+sns.set_theme(style="whitegrid")
+plt.rcParams.update({'font.size': 10, 'axes.labelsize': 12, 'axes.titlesize': 14})
+
+# ==========================================
+# FUNÇÕES DO PIPELINE
+# ==========================================
+
+def gerar_dados_telemetria():
+    """Simula a coleta de dados de sensores IoMT e métricas de estilo de vida."""
+    print("[1/5] 📥 Simulando coleta de dados IoMT...")
+    np.random.seed(RANDOM_SEED)
+    amostras = TEMPO_MONITORAMENTO_SEG * TAXA_AMOSTRAGEM_HZ
+    t = np.linspace(0, TEMPO_MONITORAMENTO_SEG, amostras)
+    
+    # Covariáveis de impacto humano futuro (Privação de sono e Estresse)
+    dias = np.arange(1, 8)
+    debito_sono = np.array([1.5, 2.0, 3.5, 5.0, 6.5, 8.0, 9.5]) 
+    indice_estresse = np.array([40, 45, 55, 70, 75, 85, 95])    
+    
+    # Geração de Sinais Basais
+    acc = np.random.normal(0, 0.4, amostras)
+    emg = np.random.normal(0, 0.15, amostras)
+    
+    # Inserção da anomalia (Crise) no meio do monitoramento
+    inicio_crise, fim_crise = int(amostras * 0.5), int(amostras * 0.75)
+    acc[inicio_crise:fim_crise] += np.sin(t[inicio_crise:fim_crise] * 60) * 5 
+    emg[inicio_crise:fim_crise] += np.random.normal(0, 3.0, fim_crise - inicio_crise)
+    
+    df = pd.DataFrame({'Tempo': t, 'Acc_Bruto': acc, 'EMG_Bruto': emg})
+    return df, dias, debito_sono, indice_estresse
+
+def aplicar_edge_computing(df):
+    """Realiza limpeza, suavização de ruídos e cálculo de anomalias (Z-Score)."""
+    print("[2/5] 🛠️ Aplicando filtros de Edge Computing...")
+    
+    # Filtro de Mediana
+    df['Acc_Filtrado'] = medfilt(df['Acc_Bruto'], kernel_size=JANELA_FILTRO_MEDIANA)
+    df['EMG_Filtrado'] = medfilt(df['EMG_Bruto'], kernel_size=JANELA_FILTRO_MEDIANA)
+    
+    # Rolling Z-Score
+    media_movel = df['Acc_Filtrado'].rolling(JANELA_Z_SCORE, min_periods=1).mean()
+    std_movel = df['Acc_Filtrado'].rolling(JANELA_Z_SCORE, min_periods=1).std().fillna(1)
+    df['Acc_ZScore'] = (df['Acc_Filtrado'] - media_movel) / std_movel
+    
+    # Definição do Target Binário
+    df['Target_Crise'] = np.where(
+        (df['Acc_ZScore'].abs() > LIMIAR_Z_SCORE_CRITICO) & 
+        (df['EMG_Filtrado'].abs() > LIMIAR_EMG_CRITICO), 1, 0
+    )
+    return df
+
+def treinar_modelo_preditivo(df):
+    """Treina o modelo RandomForest para classificação das crises."""
+    print("[3/5] 🧠 Treinando modelo RandomForest...")
+    X = df[['Acc_Filtrado', 'EMG_Filtrado']]
+    y = df['Target_Crise']
+    
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=RANDOM_SEED, stratify=y)
+    
+    model = RandomForestClassifier(n_estimators=50, random_state=RANDOM_SEED)
+    model.fit(X_train, y_train)
+    
+    y_pred = model.predict(X_test)
+    return y_test, y_pred, model
+
+def plotar_resultados_sinais(df):
+    """Gera a Figura 1: Engenharia de Sinais e Limpeza."""
+    print("[4/5] 📊 Gerando painéis visuais de engenharia de dados...")
+    fig, axes = plt.subplots(3, 1, figsize=(15, 12))
+    
+    # 1. Sinal Bruto vs Filtrado
+    axes[0].plot(df['Tempo'], df['Acc_Bruto'], label='Bruto (Com Ruído)', color='salmon', alpha=0.5)
+    axes[0].plot(df['Tempo'], df['Acc_Filtrado'], label='Filtrado (Mediana)', color='darkblue', linewidth=1.5)
+    axes[0].set_title('1. Tratamento e Suavização de Artefatos de Movimento (Acelerômetro)')
+    axes[0].set_ylabel('Amplitude (G)')
+    axes[0].legend()
+    
+    # 2. Densidade Espectral
+    f_normal, p_normal = welch(df['Acc_Filtrado'][0:800], fs=TAXA_AMOSTRAGEM_HZ)
+    f_crise, p_crise = welch(df['Acc_Filtrado'][1000:1500], fs=TAXA_AMOSTRAGEM_HZ)
+    axes[1].semilogy(f_normal, p_normal, label='Estado Normal', color='teal')
+    axes[1].semilogy(f_crise, p_crise, label='Crise Convulsiva', color='crimson')
+    axes[1].set_title('2. Assinatura Espectral do Sinal')
+    axes[1].set_xlabel('Frequência (Hz)')
+    axes[1].set_ylabel('Densidade de Potência')
+    axes[1].legend()
+    
+    # 3. Z-Score Móvel
+    axes[2].plot(df['Tempo'], df['Acc_ZScore'], color='purple', label='Métrica Z-Score Móvel')
+    axes[2].axhline(LIMIAR_Z_SCORE_CRITICO, color='red', linestyle='--', label='Limiar Crítico')
+    axes[2].axhline(-LIMIAR_Z_SCORE_CRITICO, color='red', linestyle='--')
+    axes[2].fill_between(df['Tempo'], 0, 1, where=df['Target_Crise']==1, color='red', alpha=0.3, transform=axes[2].get_xaxis_transform(), label='Crise Ativa')
+    axes[2].set_title('3. Monitoramento Estatístico em Tempo Real')
+    axes[2].set_xlabel('Tempo (Segundos)')
+    axes[2].set_ylabel('Z-Score')
+    axes[2].legend()
+    
+    plt.tight_layout()
+    plt.show()
+
+def plotar_resultados_preditivos(y_test, y_pred, dias, debito_sono, indice_estresse):
+    """Gera a Figura 2: Impacto Humano Futuro e Performance do Modelo."""
+    print("[5/5] 📈 Gerando painéis preditivos e impacto em saúde...")
+    fig, axes = plt.subplots(3, 1, figsize=(15, 12))
+    
+    # 4. Matriz de Confusão
+    cm = confusion_matrix(y_test, y_pred)
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', ax=axes[0], cbar=False, xticklabels=['Normal', 'Crise'], yticklabels=['Normal', 'Crise'])
+    axes[0].set_title('4. Matriz de Confusão (Foco em Falsos Negativos Zerados)')
+    axes[0].set_ylabel('Estado Real')
+    
+    # 5. Degradação do Limiar Convulsivo
+    limiar_seguranca = 100 - (debito_sono * 6) - (indice_estresse * 0.4)
+    axes[1].plot(dias, limiar_seguranca, marker='o', linewidth=2.5, color='darkred', label='Limiar Convulsivo (%)')
+    axes[1].bar(dias, debito_sono, alpha=0.4, color='orange', label='Débito de Sono (h)')
+    axes[1].axhline(50, color='red', linestyle=':', label='Zona de Perigo')
+    axes[1].set_title('5. Impacto Futuro: Degradação do Limiar por Estresse/Insônia')
+    axes[1].set_xticks(dias)
+    axes[1].set_xticklabels(['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'])
+    axes[1].legend()
+    
+    # 6. Dashboard Clínico
+    risco_diario = 100 - limiar_seguranca
+    cores_risco = ['green', 'green', 'yellow', 'orange', 'orange', 'red', 'darkred']
+    axes[2].bar(dias, risco_diario, color=cores_risco, alpha=0.8, edgecolor='black')
+    axes[2].set_title('6. Dashboard Clínico: Probabilidade de Crise')
+    axes[2].set_xticks(dias)
+    axes[2].set_xticklabels(['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'])
+    axes[2].set_ylim(0, 100)
+    for i, v in enumerate(risco_diario):
+        axes[2].text(i + 1, v + 2, f"{v:.1f}%", ha='center', fontweight='bold')
+        
+    plt.tight_layout()
+    plt.show()
+    
+    print("\n🔮 --- INSIGHT PREDITIVO DE VALOR CLÍNICO ---")
+    print(f"Alerta Crítico no Domingo: Risco de crise atingiu {risco_diario[-1]:.1f}%.")
+    print("Causa raiz: Extrema fadiga sistêmica mapeada. Intervenção sugerida imediatamente.")
+
+# ==========================================
+# BLOCO PRINCIPAL DE EXECUÇÃO
+# ==========================================
+if __name__ == "__main__":
+    print("Iniciando Pipeline de Dados IoMT...\n" + "="*40)
+    
+    # Execução das etapas modulares
+    df_dados, array_dias, array_sono, array_estresse = gerar_dados_telemetria()
+    df_processado = aplicar_edge_computing(df_dados)
+    y_teste, y_predito, modelo_treinado = treinar_modelo_preditivo(df_processado)
+    
+    # Renderização visual
+    plotar_resultados_sinais(df_processado)
+    plotar_resultados_preditivos(y_teste, y_predito, array_dias, array_sono, array_estresse)
+    
+    print("\n✅ Pipeline concluído com sucesso!")

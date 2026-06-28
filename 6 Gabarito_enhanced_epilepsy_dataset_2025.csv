@@ -1,0 +1,1001 @@
+Age,Gender,Weight,Height,Medication Status,Alcohol or Drug Use,EEG Abnormality Detected,MRI/CT Scan Result,Seizure Frequency,Seizure Duration,Seizure Type,Aura Before Seizure,Loss of Consciousness,Muscle Stiffness,Jerky Movements,Postictal Confusion,Blank Stare Episodes,Eye Rolling,Stress or Anxiety Before Episode,Lack of Sleep Before Episode,Flashing Lights Sensitivity,Loud Sound Sensitivity,Missed Medication,Family History of Epilepsy,Head Injury History,Brain Tumor,History of Stroke,Genetic Disorder,Developmental Delay (in Children),Target/Epilepsy Type
+15,Male,48.3,168.2,On Medication,Yes,Yes,Normal,1,60,Tonic-Clonic,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Generalized
+4,Female,56.0,174.5,On Medication,No,Yes,Abnormal,1,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Generalized
+36,Female,44.8,156.2,On Medication,No,Yes,Abnormal,3,30,Tonic-Clonic,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Generalized
+32,Female,70.4,180.4,Not on Medication,No,Yes,Not Done,0,60,Focal,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+29,Male,54.5,161.7,On Medication,No,Yes,Not Done,1,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Generalized
+18,Male,62.1,168.0,On Medication,No,Yes,Abnormal,1,30,Tonic-Clonic,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+14,Male,53.3,161.8,Not on Medication,No,No,Not Done,2,30,Absence,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Absence
+70,Female,93.0,169.7,On Medication,No,Yes,Normal,1,30,Absence,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Absence
+12,Male,48.9,169.8,Not on Medication,No,No,Normal,1,90,Tonic-Clonic,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Complicated
+76,Female,50.6,178.8,On Medication,No,Yes,Abnormal,5,30,Tonic-Clonic,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Complicated
+55,Male,88.4,166.3,On Medication,No,Yes,Normal,3,30,Generalized,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Generalized
+5,Female,70.7,181.5,On Medication,No,No,Abnormal,1,30,Absence,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Absence
+4,Female,62.0,165.6,On Medication,No,No,Not Done,0,30,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Generalized
+12,Female,70.4,170.8,Not on Medication,No,Yes,Not Done,5,60,Absence,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Absence
+28,Male,93.7,175.7,On Medication,No,Yes,Abnormal,1,90,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Generalized
+30,Male,82.3,160.2,Not on Medication,No,Yes,Normal,0,60,Absence,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Absence
+65,Male,66.0,174.8,Not on Medication,Yes,Yes,Not Done,0,30,Focal,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Complicated
+78,Female,36.3,168.6,Not on Medication,No,No,Not Done,0,30,Generalized,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Normal
+4,Male,68.9,168.0,Not on Medication,No,No,Abnormal,0,60,Generalized,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Normal
+72,Male,87.3,173.8,On Medication,No,Yes,Abnormal,1,60,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+26,Male,48.5,169.9,On Medication,No,Yes,Normal,0,60,Focal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Focal
+70,Female,54.0,170.8,On Medication,No,Yes,Not Done,1,60,Focal,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Focal
+54,Female,80.8,171.5,On Medication,Yes,Yes,Abnormal,1,120,Focal,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Focal
+29,Male,70.9,164.2,Not on Medication,No,Yes,Normal,1,60,Generalized,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Complicated
+58,Male,56.0,172.6,On Medication,No,Yes,Abnormal,5,30,Focal,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Focal
+76,Male,60.9,174.5,Not on Medication,No,Yes,Abnormal,5,60,Focal,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+36,Male,87.6,169.0,Not on Medication,No,Yes,Abnormal,2,60,Tonic-Clonic,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+1,Female,66.6,172.3,On Medication,No,No,Normal,0,120,Focal,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Focal
+21,Male,77.3,165.7,On Medication,No,Yes,Not Done,1,60,Absence,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Absence
+55,Female,68.0,163.6,On Medication,No,Yes,Normal,2,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+44,Male,75.8,153.7,On Medication,Yes,No,Abnormal,1,60,Absence,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Absence
+36,Male,54.4,150.9,On Medication,No,Yes,Not Done,1,90,Focal,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Focal
+20,Male,67.9,155.2,On Medication,No,Yes,Abnormal,2,30,Focal,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Focal
+28,Female,73.6,147.5,On Medication,No,Yes,Abnormal,1,90,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Generalized
+44,Male,45.2,162.7,On Medication,No,Yes,Not Done,5,30,Absence,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Complicated
+14,Female,79.1,159.8,On Medication,No,Yes,Abnormal,3,30,Absence,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Absence
+12,Male,57.2,179.1,On Medication,No,Yes,Normal,0,30,Tonic-Clonic,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Generalized
+49,Female,64.3,171.7,On Medication,No,Yes,Normal,0,90,Tonic-Clonic,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Generalized
+13,Male,100.4,174.4,On Medication,Yes,Yes,Abnormal,0,60,Tonic-Clonic,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Complicated
+46,Male,75.2,183.5,On Medication,No,Yes,Abnormal,3,30,Absence,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Complicated
+45,Male,67.9,165.5,On Medication,No,Yes,Abnormal,5,30,Focal,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Focal
+78,Female,56.6,168.8,Not on Medication,Yes,No,Normal,1,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+34,Female,42.1,158.1,Not on Medication,No,Yes,Not Done,0,90,Tonic-Clonic,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Generalized
+6,Male,54.9,183.0,On Medication,No,Yes,Normal,1,60,Absence,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Absence
+59,Female,61.7,165.3,On Medication,No,Yes,Abnormal,0,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Generalized
+69,Female,84.8,167.0,On Medication,No,Yes,Not Done,1,30,Focal,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Normal
+16,Male,81.4,163.9,On Medication,No,Yes,Abnormal,1,90,Generalized,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Generalized
+49,Male,64.6,176.7,On Medication,No,Yes,Abnormal,1,90,Focal,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Focal
+11,Female,59.8,161.5,On Medication,No,Yes,Normal,0,60,Focal,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Focal
+71,Female,78.7,168.5,On Medication,No,Yes,Not Done,0,60,Focal,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Focal
+38,Female,81.6,176.9,On Medication,No,Yes,Not Done,3,60,Focal,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Focal
+80,Male,48.6,150.6,On Medication,No,Yes,Abnormal,1,30,Focal,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+47,Female,76.4,167.8,On Medication,No,Yes,Abnormal,1,30,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Generalized
+74,Male,64.7,170.5,Not on Medication,No,Yes,Abnormal,1,90,Generalized,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+25,Female,59.7,169.5,On Medication,Yes,No,Normal,2,60,Focal,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Focal
+9,Male,48.5,157.9,On Medication,Yes,Yes,Normal,1,60,Generalized,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Normal
+6,Male,54.0,177.4,On Medication,No,Yes,Abnormal,2,30,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Generalized
+30,Male,48.4,143.5,On Medication,No,Yes,Normal,5,90,Tonic-Clonic,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Complicated
+38,Female,102.0,162.0,Not on Medication,No,No,Abnormal,10,60,Focal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Focal
+11,Male,56.5,160.9,On Medication,No,Yes,Abnormal,1,60,Absence,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Complicated
+30,Male,77.9,157.0,On Medication,No,Yes,Abnormal,1,90,Generalized,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Complicated
+13,Male,55.9,183.3,On Medication,No,Yes,Normal,1,30,Absence,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Absence
+49,Male,83.0,158.4,On Medication,No,No,Normal,3,60,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Generalized
+36,Female,87.9,170.1,Not on Medication,No,Yes,Not Done,0,30,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Complicated
+59,Female,49.4,170.0,On Medication,No,Yes,Abnormal,2,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Generalized
+47,Female,84.3,160.8,On Medication,No,Yes,Normal,2,30,Absence,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+21,Male,42.1,177.6,Not on Medication,Yes,Yes,Abnormal,3,30,Focal,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Focal
+48,Male,63.8,163.8,On Medication,No,Yes,Abnormal,1,60,Tonic-Clonic,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Generalized
+46,Male,72.7,159.7,On Medication,No,Yes,Abnormal,0,90,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+27,Female,64.7,157.5,On Medication,Yes,Yes,Not Done,2,120,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Generalized
+35,Male,54.0,156.9,Not on Medication,No,Yes,Normal,1,30,Focal,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Focal
+10,Female,55.3,157.0,On Medication,No,Yes,Not Done,3,30,Focal,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Focal
+78,Male,78.8,158.3,On Medication,No,Yes,Not Done,5,30,Absence,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Absence
+22,Male,63.8,169.5,Not on Medication,No,Yes,Abnormal,5,30,Focal,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Focal
+69,Female,50.0,160.0,On Medication,No,Yes,Normal,3,60,Generalized,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Generalized
+32,Female,66.9,184.4,On Medication,No,Yes,Normal,5,60,Generalized,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Not Confirmed
+21,Male,58.5,172.5,Not on Medication,No,No,Normal,2,60,Tonic-Clonic,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Complicated
+60,Female,78.5,167.1,On Medication,Yes,Yes,Abnormal,2,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+49,Female,96.6,153.9,On Medication,No,No,Abnormal,2,60,Absence,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Absence
+35,Female,51.6,158.3,On Medication,Yes,Yes,Normal,5,30,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+72,Male,77.5,163.2,On Medication,No,Yes,Normal,2,60,Generalized,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Absence
+29,Male,63.5,165.2,On Medication,No,Yes,Normal,1,30,Focal,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+42,Male,61.0,179.3,Not on Medication,No,Yes,Abnormal,1,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Generalized
+8,Female,40.6,177.7,On Medication,No,Yes,Normal,0,30,Generalized,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+30,Other,41.9,150.1,On Medication,No,Yes,Normal,0,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Generalized
+5,Female,94.4,176.3,On Medication,No,Yes,Not Done,0,90,Absence,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Generalized
+41,Male,56.1,178.7,On Medication,No,No,Normal,0,90,Focal,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Complicated
+52,Female,53.4,169.1,On Medication,No,Yes,Normal,0,90,Tonic-Clonic,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Complicated
+35,Male,54.9,163.6,On Medication,Yes,Yes,Abnormal,2,30,Tonic-Clonic,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Absence
+9,Female,40.2,177.0,On Medication,No,Yes,Abnormal,3,90,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Generalized
+28,Male,55.6,165.2,On Medication,No,Yes,Normal,3,30,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+73,Male,72.8,156.8,On Medication,No,Yes,Normal,10,60,Absence,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Absence
+41,Male,60.9,168.7,On Medication,No,Yes,Normal,5,30,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Generalized
+28,Male,76.7,140.9,On Medication,Yes,Yes,Not Done,0,30,Focal,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Absence
+64,Female,67.6,167.4,Not on Medication,No,Yes,Normal,10,120,Focal,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Focal
+51,Male,72.5,176.4,On Medication,No,Yes,Normal,0,60,Generalized,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Focal
+59,Male,62.0,152.7,On Medication,Yes,No,Not Done,2,120,Tonic-Clonic,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Focal
+19,Female,55.4,169.9,On Medication,No,Yes,Normal,1,120,Generalized,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Generalized
+34,Male,76.2,163.2,Not on Medication,Yes,Yes,Abnormal,0,60,Absence,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Complicated
+18,Male,66.6,170.8,On Medication,No,Yes,Abnormal,1,60,Focal,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Complicated
+32,Male,80.6,172.4,On Medication,No,Yes,Normal,1,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Generalized
+72,Male,49.1,153.0,On Medication,No,Yes,Abnormal,0,60,Generalized,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Focal
+69,Male,74.1,163.2,Not on Medication,No,Yes,Normal,1,30,Absence,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Normal
+34,Female,64.1,169.5,On Medication,No,Yes,Abnormal,2,30,Tonic-Clonic,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Not Confirmed
+75,Male,59.5,166.4,On Medication,No,Yes,Normal,1,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Generalized
+55,Male,70.2,164.5,On Medication,No,Yes,Normal,0,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Generalized
+75,Female,45.5,173.3,On Medication,No,No,Not Done,0,30,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Generalized
+52,Female,81.9,161.7,On Medication,No,Yes,Normal,1,90,Tonic-Clonic,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Generalized
+47,Male,51.3,156.7,On Medication,No,Yes,Not Done,1,30,Absence,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Absence
+29,Female,97.1,157.5,On Medication,No,Yes,Normal,1,60,Focal,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Focal
+18,Female,67.0,166.6,On Medication,Yes,Yes,Abnormal,1,120,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+66,Female,67.6,166.6,On Medication,No,Yes,Normal,2,90,Focal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+64,Male,62.8,159.1,On Medication,No,Yes,Normal,1,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Generalized
+12,Male,24.7,167.6,On Medication,No,Yes,Abnormal,3,90,Absence,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Absence
+7,Female,60.9,174.4,On Medication,No,Yes,Normal,0,30,Absence,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Complicated
+15,Female,69.0,180.1,On Medication,No,Yes,Abnormal,0,30,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Generalized
+20,Male,55.5,154.9,On Medication,No,Yes,Abnormal,3,30,Focal,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Complicated
+21,Female,54.5,170.8,On Medication,No,Yes,Normal,2,30,Focal,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Focal
+55,Male,76.4,171.1,Not on Medication,No,Yes,Normal,2,30,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+77,Other,59.7,180.6,On Medication,No,No,Not Done,2,90,Generalized,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Absence
+9,Male,71.1,154.8,On Medication,No,Yes,Abnormal,3,90,Focal,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Focal
+50,Male,52.9,163.5,On Medication,No,Yes,Abnormal,10,30,Tonic-Clonic,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Normal
+49,Male,62.3,149.5,On Medication,Yes,Yes,Normal,0,30,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Focal
+77,Male,85.3,167.8,On Medication,No,Yes,Abnormal,0,60,Focal,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+60,Male,90.5,164.3,On Medication,No,Yes,Normal,10,30,Tonic-Clonic,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+68,Male,56.8,173.3,Not on Medication,No,Yes,Abnormal,0,60,Focal,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Focal
+33,Male,64.5,155.9,Not on Medication,Yes,Yes,Normal,1,60,Generalized,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Focal
+71,Male,65.8,159.9,On Medication,No,Yes,Normal,0,30,Generalized,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Generalized
+2,Female,88.0,166.4,On Medication,No,Yes,Abnormal,5,90,Absence,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Absence
+15,Male,52.7,152.5,Not on Medication,No,Yes,Not Done,1,60,Absence,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Absence
+69,Female,39.4,149.5,Not on Medication,No,Yes,Abnormal,0,90,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+35,Female,93.6,173.1,Not on Medication,No,Yes,Not Done,0,30,Generalized,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+44,Female,36.4,156.4,On Medication,Yes,Yes,Abnormal,1,30,Focal,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+15,Male,37.0,161.1,Not on Medication,Yes,Yes,Not Done,2,90,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+38,Female,44.4,157.9,On Medication,No,Yes,Normal,1,30,Focal,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+56,Male,68.0,181.3,On Medication,No,Yes,Not Done,0,90,Absence,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Absence
+21,Male,80.6,170.8,Not on Medication,No,Yes,Not Done,0,60,Absence,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Absence
+59,Male,80.7,181.6,On Medication,No,Yes,Normal,0,60,Generalized,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Complicated
+1,Male,61.4,172.8,On Medication,Yes,Yes,Normal,1,90,Generalized,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Complicated
+34,Male,58.1,158.1,On Medication,No,Yes,Not Done,5,30,Focal,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+65,Male,78.4,183.3,Not on Medication,No,Yes,Not Done,2,90,Focal,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+23,Male,78.5,169.5,On Medication,No,Yes,Abnormal,0,60,Focal,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Focal
+65,Male,48.9,184.1,On Medication,No,Yes,Normal,0,60,Generalized,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Not Confirmed
+14,Male,74.8,153.6,On Medication,No,Yes,Abnormal,5,60,Absence,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Absence
+39,Female,74.1,192.7,On Medication,No,Yes,Not Done,1,60,Focal,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Focal
+65,Male,91.0,172.0,On Medication,No,Yes,Abnormal,3,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+78,Female,94.6,164.8,On Medication,No,Yes,Normal,2,60,Focal,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+26,Female,57.2,161.6,On Medication,No,Yes,Normal,1,30,Focal,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+20,Male,86.8,183.1,On Medication,No,Yes,Not Done,2,30,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Generalized
+48,Female,72.6,179.9,Not on Medication,Yes,No,Not Done,0,90,Focal,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Focal
+21,Female,54.9,161.0,On Medication,No,Yes,Abnormal,3,60,Focal,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Focal
+70,Female,45.7,167.9,On Medication,No,Yes,Normal,1,30,Absence,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Absence
+68,Female,67.6,151.6,On Medication,Yes,Yes,Normal,1,120,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Generalized
+1,Male,49.8,159.8,On Medication,No,Yes,Abnormal,1,60,Generalized,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+77,Female,72.5,159.7,On Medication,No,Yes,Normal,1,60,Focal,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Focal
+42,Male,62.0,185.7,On Medication,No,Yes,Normal,1,90,Focal,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+63,Male,37.4,164.7,On Medication,Yes,Yes,Abnormal,5,30,Focal,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+3,Male,72.8,146.7,On Medication,No,Yes,Abnormal,0,60,Focal,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Focal
+15,Female,74.7,161.4,On Medication,No,Yes,Abnormal,3,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Generalized
+47,Female,73.0,181.2,On Medication,No,Yes,Abnormal,5,30,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+40,Female,59.3,172.2,Not on Medication,No,Yes,Abnormal,0,30,Absence,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Absence
+31,Female,77.7,176.5,On Medication,No,Yes,Abnormal,0,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+8,Female,61.7,155.7,Not on Medication,Yes,Yes,Normal,0,30,Tonic-Clonic,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Generalized
+31,Male,68.2,159.4,On Medication,No,Yes,Abnormal,1,30,Focal,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Complicated
+73,Female,67.2,162.1,Not on Medication,No,Yes,Not Done,0,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Generalized
+11,Male,64.8,168.0,Not on Medication,No,Yes,Normal,0,90,Absence,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Absence
+11,Female,64.8,174.2,On Medication,Yes,Yes,Abnormal,0,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Generalized
+63,Female,55.4,156.1,On Medication,No,Yes,Abnormal,2,30,Focal,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Focal
+9,Female,71.1,159.5,On Medication,No,No,Not Done,2,90,Generalized,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Generalized
+69,Male,82.7,181.7,On Medication,No,Yes,Abnormal,0,60,Tonic-Clonic,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Generalized
+17,Male,72.1,162.9,On Medication,No,Yes,Not Done,1,30,Absence,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Absence
+17,Male,69.5,164.0,On Medication,No,Yes,Normal,3,120,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Generalized
+61,Male,69.5,181.2,On Medication,No,Yes,Not Done,1,90,Absence,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Complicated
+71,Female,78.3,172.6,Not on Medication,No,Yes,Normal,1,90,Generalized,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Generalized
+22,Male,74.5,146.2,Not on Medication,No,Yes,Normal,1,60,Focal,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Absence
+34,Female,112.3,153.8,On Medication,No,Yes,Abnormal,1,120,Generalized,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Generalized
+68,Male,65.3,169.7,On Medication,No,Yes,Abnormal,0,60,Focal,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Focal
+78,Female,37.2,172.8,On Medication,Yes,Yes,Normal,2,60,Focal,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Focal
+55,Female,75.5,193.1,On Medication,Yes,Yes,Abnormal,3,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Generalized
+28,Female,41.9,163.6,On Medication,Yes,Yes,Normal,2,30,Generalized,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Not Confirmed
+70,Female,73.4,163.3,On Medication,No,Yes,Normal,1,120,Absence,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Focal
+26,Female,89.4,161.3,On Medication,Yes,No,Normal,2,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Generalized
+40,Female,74.3,181.4,Not on Medication,No,Yes,Normal,1,60,Focal,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Focal
+52,Male,79.8,157.9,On Medication,No,No,Normal,2,120,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Normal
+48,Female,62.6,174.4,On Medication,No,Yes,Normal,0,120,Focal,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+57,Male,61.2,159.6,Not on Medication,No,Yes,Not Done,1,30,Generalized,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+67,Female,68.7,149.8,On Medication,No,Yes,Abnormal,1,90,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Generalized
+58,Female,80.9,167.0,On Medication,No,No,Normal,1,90,Focal,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Focal
+16,Male,49.9,159.1,On Medication,No,Yes,Normal,2,30,Generalized,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Generalized
+32,Female,49.2,166.3,On Medication,No,No,Abnormal,0,30,Generalized,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Generalized
+29,Male,83.3,154.2,Not on Medication,No,Yes,Abnormal,5,30,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Generalized
+9,Male,50.9,159.4,On Medication,No,Yes,Abnormal,3,30,Absence,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+44,Female,57.5,169.4,On Medication,No,Yes,Normal,0,30,Tonic-Clonic,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+3,Male,69.8,163.4,On Medication,No,Yes,Normal,2,120,Focal,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Generalized
+76,Male,59.7,142.8,On Medication,No,Yes,Not Done,5,60,Focal,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Not Confirmed
+71,Female,61.8,176.8,On Medication,No,Yes,Abnormal,0,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+30,Male,52.0,161.6,On Medication,No,Yes,Abnormal,2,90,Tonic-Clonic,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Generalized
+76,Male,78.0,164.9,On Medication,No,Yes,Abnormal,3,30,Absence,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Absence
+29,Female,64.3,169.9,Not on Medication,No,Yes,Normal,0,60,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+1,Male,79.6,163.9,On Medication,No,Yes,Abnormal,0,90,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+10,Male,63.1,162.6,Not on Medication,No,Yes,Normal,2,60,Focal,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+8,Male,59.1,168.2,Not on Medication,No,Yes,Not Done,2,60,Absence,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Complicated
+30,Female,58.1,154.2,On Medication,Yes,Yes,Not Done,1,60,Focal,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+9,Female,86.6,159.9,On Medication,Yes,Yes,Abnormal,0,90,Absence,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Absence
+5,Female,34.7,136.7,On Medication,No,Yes,Not Done,1,120,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Generalized
+43,Female,55.4,181.7,On Medication,Yes,Yes,Normal,2,90,Tonic-Clonic,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Generalized
+10,Male,43.3,160.2,On Medication,No,Yes,Abnormal,2,30,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+66,Male,55.9,170.9,Not on Medication,No,Yes,Not Done,0,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Generalized
+31,Female,47.2,164.5,On Medication,No,Yes,Abnormal,3,120,Tonic-Clonic,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Generalized
+36,Female,70.9,158.4,On Medication,No,Yes,Not Done,2,30,Focal,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Complicated
+63,Male,48.6,133.2,Not on Medication,No,Yes,Normal,0,120,Focal,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+28,Male,61.1,149.0,Not on Medication,No,Yes,Normal,5,30,Absence,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Absence
+70,Male,66.3,173.0,On Medication,No,No,Abnormal,3,60,Focal,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Complicated
+17,Male,52.8,162.1,Not on Medication,No,Yes,Normal,0,30,Absence,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Normal
+74,Male,67.2,159.8,On Medication,No,Yes,Normal,10,30,Focal,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+74,Female,53.4,181.1,Not on Medication,No,Yes,Normal,1,90,Generalized,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+61,Other,57.2,178.3,On Medication,No,No,Not Done,0,60,Focal,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Focal
+32,Male,88.0,176.2,Not on Medication,No,Yes,Normal,2,30,Generalized,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Complicated
+61,Male,80.9,167.0,On Medication,No,Yes,Normal,2,30,Focal,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+53,Female,51.1,155.4,Not on Medication,No,Yes,Normal,10,60,Focal,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+25,Male,85.2,177.9,Not on Medication,No,Yes,Abnormal,5,120,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Focal
+13,Female,46.5,177.5,Not on Medication,No,Yes,Normal,0,60,Absence,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Generalized
+13,Male,71.4,173.3,Not on Medication,No,Yes,Normal,5,30,Tonic-Clonic,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Not Confirmed
+56,Female,74.1,149.4,On Medication,No,Yes,Normal,0,90,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Generalized
+46,Male,44.1,182.0,On Medication,No,Yes,Not Done,3,60,Generalized,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Normal
+55,Male,74.7,164.9,On Medication,No,Yes,Normal,0,90,Absence,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Absence
+53,Female,65.6,179.3,On Medication,No,Yes,Not Done,0,90,Absence,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Absence
+60,Male,64.4,147.5,On Medication,No,Yes,Abnormal,1,30,Focal,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+7,Female,71.9,167.3,On Medication,No,Yes,Normal,0,90,Generalized,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+13,Female,49.6,165.6,On Medication,No,Yes,Normal,1,60,Tonic-Clonic,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+8,Female,98.2,168.9,On Medication,No,Yes,Normal,5,90,Generalized,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Generalized
+52,Female,35.4,157.5,On Medication,No,Yes,Normal,0,90,Absence,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Absence
+44,Male,75.2,154.2,Not on Medication,No,Yes,Normal,1,90,Absence,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Absence
+14,Male,79.6,157.5,On Medication,No,Yes,Normal,5,30,Generalized,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Generalized
+32,Female,40.9,158.0,On Medication,No,Yes,Normal,0,30,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Generalized
+25,Female,68.9,164.8,On Medication,No,No,Abnormal,3,30,Focal,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Focal
+25,Male,74.6,173.0,On Medication,No,Yes,Not Done,5,90,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Generalized
+69,Male,59.0,154.7,On Medication,No,Yes,Normal,2,30,Tonic-Clonic,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Generalized
+58,Female,65.9,156.9,On Medication,No,No,Normal,0,30,Generalized,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Normal
+18,Male,62.4,140.9,Not on Medication,No,Yes,Normal,0,90,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Generalized
+55,Female,95.0,176.4,On Medication,No,No,Normal,1,90,Focal,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Focal
+24,Female,25.7,152.1,On Medication,No,No,Abnormal,0,30,Focal,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+36,Female,76.0,165.6,Not on Medication,No,Yes,Normal,5,60,Generalized,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Generalized
+60,Male,55.0,157.2,Not on Medication,No,Yes,Abnormal,10,90,Generalized,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+32,Male,95.5,169.7,Not on Medication,No,Yes,Not Done,1,120,Focal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+10,Female,65.0,159.7,On Medication,No,Yes,Abnormal,2,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Generalized
+57,Male,81.9,147.6,Not on Medication,Yes,Yes,Normal,0,90,Generalized,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+71,Male,80.6,165.9,On Medication,No,Yes,Normal,2,90,Generalized,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Absence
+13,Female,60.2,170.4,Not on Medication,No,Yes,Normal,5,60,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+7,Male,85.8,160.5,Not on Medication,No,Yes,Normal,3,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Generalized
+70,Male,61.8,179.2,On Medication,No,No,Normal,0,30,Focal,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Focal
+2,Female,70.6,173.5,On Medication,No,Yes,Abnormal,5,120,Tonic-Clonic,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Generalized
+12,Female,60.2,140.9,On Medication,No,Yes,Abnormal,2,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Generalized
+31,Male,31.0,162.9,On Medication,No,Yes,Normal,10,60,Focal,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+22,Male,56.4,158.8,On Medication,No,Yes,Normal,2,60,Focal,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+53,Male,46.2,166.7,Not on Medication,No,Yes,Normal,1,60,Tonic-Clonic,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Focal
+63,Male,65.5,167.7,On Medication,No,Yes,Normal,0,30,Generalized,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+62,Female,42.6,143.8,On Medication,No,Yes,Normal,1,60,Focal,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Focal
+28,Male,55.2,161.1,On Medication,Yes,Yes,Abnormal,1,30,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Generalized
+52,Male,71.8,175.1,On Medication,No,Yes,Not Done,1,30,Tonic-Clonic,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+8,Female,59.0,169.9,On Medication,No,Yes,Not Done,3,120,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Generalized
+22,Male,85.4,182.9,On Medication,No,Yes,Normal,1,30,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Generalized
+49,Female,98.1,159.1,On Medication,No,Yes,Not Done,5,30,Focal,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Focal
+1,Female,66.4,154.6,On Medication,No,Yes,Not Done,0,30,Focal,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Focal
+50,Male,43.5,159.2,On Medication,No,Yes,Abnormal,5,60,Absence,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Absence
+34,Male,54.5,145.9,On Medication,No,Yes,Abnormal,3,90,Focal,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+59,Female,82.8,158.1,On Medication,No,No,Abnormal,2,60,Focal,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+37,Male,48.9,178.0,On Medication,No,Yes,Abnormal,0,30,Absence,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Absence
+55,Female,75.5,163.8,On Medication,No,Yes,Normal,2,30,Generalized,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Generalized
+72,Female,73.3,161.6,Not on Medication,No,Yes,Normal,2,60,Focal,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Focal
+63,Male,64.8,171.8,On Medication,No,Yes,Not Done,0,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Generalized
+20,Male,62.6,155.8,On Medication,No,Yes,Normal,5,120,Generalized,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Complicated
+25,Female,54.1,164.0,On Medication,No,Yes,Normal,1,60,Focal,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Focal
+38,Male,99.4,183.7,On Medication,No,Yes,Normal,1,30,Focal,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+28,Male,77.4,158.7,On Medication,No,Yes,Normal,0,60,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Generalized
+8,Male,73.1,171.4,On Medication,No,Yes,Not Done,0,30,Absence,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Absence
+75,Female,59.6,172.4,On Medication,No,Yes,Normal,5,60,Focal,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Focal
+70,Male,72.6,169.4,On Medication,No,Yes,Abnormal,2,30,Generalized,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+8,Female,99.9,159.7,On Medication,No,Yes,Abnormal,3,30,Generalized,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Complicated
+41,Female,51.1,163.9,On Medication,Yes,Yes,Normal,0,60,Tonic-Clonic,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+8,Male,78.5,176.2,Not on Medication,No,Yes,Abnormal,2,120,Focal,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Focal
+7,Female,57.3,163.7,Not on Medication,No,Yes,Normal,0,90,Absence,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Absence
+75,Male,72.8,178.4,Not on Medication,No,Yes,Abnormal,1,120,Focal,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Focal
+62,Male,85.3,160.3,Not on Medication,No,Yes,Abnormal,3,60,Focal,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Focal
+65,Male,31.2,168.4,Not on Medication,No,Yes,Normal,1,120,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Generalized
+68,Male,37.6,171.2,On Medication,No,Yes,Abnormal,1,30,Tonic-Clonic,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+21,Male,48.4,171.6,On Medication,No,Yes,Not Done,2,90,Absence,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Absence
+8,Male,73.9,190.4,On Medication,No,Yes,Abnormal,1,30,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Generalized
+66,Female,78.2,154.9,On Medication,Yes,Yes,Abnormal,1,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Generalized
+11,Female,89.9,162.6,On Medication,No,Yes,Abnormal,0,60,Generalized,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Generalized
+24,Male,60.7,167.5,On Medication,No,Yes,Normal,2,60,Focal,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+9,Female,68.1,157.1,On Medication,No,Yes,Not Done,2,60,Focal,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Complicated
+77,Female,87.7,169.1,On Medication,No,Yes,Normal,0,60,Generalized,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Generalized
+9,Male,74.3,183.1,Not on Medication,Yes,Yes,Normal,10,30,Focal,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Focal
+31,Male,66.6,164.1,On Medication,Yes,Yes,Abnormal,0,60,Focal,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Focal
+52,Male,48.3,155.3,Not on Medication,No,Yes,Abnormal,1,30,Absence,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Absence
+16,Female,76.0,167.4,On Medication,No,Yes,Abnormal,3,60,Focal,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Focal
+73,Male,86.1,169.8,Not on Medication,No,Yes,Normal,1,30,Tonic-Clonic,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Focal
+32,Male,70.2,169.9,On Medication,No,Yes,Abnormal,2,60,Tonic-Clonic,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+75,Male,65.2,151.6,Not on Medication,Yes,Yes,Normal,0,90,Focal,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+77,Female,55.7,159.1,On Medication,No,Yes,Normal,0,60,Focal,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Focal
+6,Male,69.4,183.3,On Medication,Yes,Yes,Normal,1,60,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+80,Male,90.4,165.3,On Medication,Yes,Yes,Abnormal,5,60,Absence,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Absence
+11,Male,32.0,156.2,Not on Medication,No,Yes,Abnormal,0,30,Absence,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Absence
+54,Male,69.1,185.4,Not on Medication,No,Yes,Normal,5,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+75,Male,75.7,168.0,On Medication,No,Yes,Normal,1,120,Absence,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Absence
+73,Female,80.1,146.3,On Medication,Yes,Yes,Normal,1,60,Tonic-Clonic,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Normal
+67,Female,67.9,170.4,On Medication,Yes,Yes,Abnormal,2,60,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Generalized
+41,Male,60.8,158.3,On Medication,No,Yes,Normal,0,30,Focal,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Focal
+34,Female,89.1,178.5,On Medication,No,Yes,Abnormal,3,60,Focal,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Generalized
+27,Male,80.7,181.0,On Medication,Yes,Yes,Not Done,3,120,Tonic-Clonic,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+41,Male,23.2,176.0,On Medication,No,Yes,Normal,1,60,Focal,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Focal
+31,Female,42.3,170.3,On Medication,No,No,Abnormal,2,60,Focal,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Focal
+34,Male,46.1,173.8,Not on Medication,No,Yes,Abnormal,1,90,Generalized,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+51,Male,73.7,165.9,On Medication,No,Yes,Normal,5,90,Focal,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Focal
+17,Male,77.4,172.0,Not on Medication,No,Yes,Not Done,0,60,Absence,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Generalized
+39,Female,58.8,157.8,On Medication,No,Yes,Abnormal,10,120,Generalized,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Complicated
+59,Male,78.2,157.7,On Medication,No,Yes,Normal,1,60,Generalized,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Generalized
+41,Female,83.9,171.5,On Medication,No,Yes,Normal,0,30,Tonic-Clonic,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Generalized
+10,Female,71.6,169.0,On Medication,No,No,Normal,1,60,Tonic-Clonic,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Complicated
+2,Male,78.1,189.3,On Medication,No,No,Normal,2,30,Tonic-Clonic,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+59,Male,66.8,160.8,On Medication,No,Yes,Abnormal,2,90,Absence,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+80,Male,62.7,157.3,Not on Medication,No,Yes,Abnormal,1,60,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Generalized
+73,Male,53.8,170.1,On Medication,No,Yes,Abnormal,0,90,Generalized,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Generalized
+13,Male,73.4,152.8,Not on Medication,No,Yes,Not Done,2,90,Generalized,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+10,Male,55.7,156.2,On Medication,No,Yes,Normal,2,60,Tonic-Clonic,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+69,Female,53.4,179.3,On Medication,Yes,Yes,Normal,0,60,Focal,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Focal
+28,Female,98.1,178.1,On Medication,No,Yes,Normal,0,30,Absence,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Complicated
+65,Male,56.9,146.0,On Medication,No,Yes,Normal,2,60,Generalized,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Generalized
+34,Female,59.6,171.2,On Medication,Yes,Yes,Normal,1,30,Generalized,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+17,Male,68.1,157.2,On Medication,No,Yes,Abnormal,1,30,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Generalized
+45,Female,42.7,144.5,On Medication,No,Yes,Normal,0,60,Generalized,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Generalized
+9,Male,70.1,184.2,On Medication,No,Yes,Normal,1,90,Focal,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Complicated
+32,Male,70.7,159.1,On Medication,No,Yes,Normal,2,90,Focal,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Focal
+48,Female,61.3,151.6,On Medication,No,Yes,Abnormal,0,60,Absence,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Complicated
+37,Male,45.3,168.9,On Medication,No,Yes,Abnormal,0,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+21,Female,34.0,165.9,On Medication,Yes,Yes,Not Done,1,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+57,Male,64.9,164.6,On Medication,No,Yes,Normal,2,90,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+70,Female,74.3,179.6,On Medication,Yes,Yes,Abnormal,1,30,Generalized,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Generalized
+39,Male,61.3,168.3,On Medication,No,Yes,Abnormal,10,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Generalized
+79,Male,105.7,170.2,Not on Medication,No,Yes,Abnormal,2,120,Focal,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Complicated
+68,Female,64.6,150.8,Not on Medication,No,Yes,Normal,5,30,Focal,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Absence
+2,Female,66.6,158.6,Not on Medication,No,Yes,Abnormal,0,60,Absence,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Complicated
+71,Female,89.6,145.8,On Medication,No,Yes,Abnormal,2,90,Generalized,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Normal
+39,Male,50.0,186.9,Not on Medication,No,Yes,Normal,1,120,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Generalized
+14,Female,46.0,174.7,On Medication,No,Yes,Normal,2,90,Absence,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Absence
+18,Male,63.7,158.1,On Medication,No,No,Abnormal,1,30,Tonic-Clonic,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+34,Male,50.0,159.8,On Medication,No,No,Normal,1,30,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Generalized
+15,Female,69.5,172.4,On Medication,No,Yes,Abnormal,0,30,Absence,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Absence
+14,Male,66.3,160.1,On Medication,No,Yes,Normal,10,30,Focal,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Focal
+71,Female,54.3,158.0,On Medication,No,No,Abnormal,10,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Generalized
+20,Male,53.0,167.2,Not on Medication,Yes,Yes,Abnormal,10,30,Generalized,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Generalized
+35,Female,75.2,171.7,On Medication,No,Yes,Normal,5,90,Focal,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Focal
+37,Male,58.8,180.0,On Medication,No,No,Normal,0,60,Focal,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Focal
+78,Male,58.6,160.1,Not on Medication,No,Yes,Abnormal,1,60,Generalized,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Generalized
+27,Female,86.3,163.8,On Medication,No,Yes,Not Done,0,90,Generalized,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+44,Female,82.2,177.2,Not on Medication,No,No,Normal,5,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+27,Female,66.1,153.4,On Medication,No,No,Abnormal,0,120,Focal,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Focal
+34,Male,75.9,155.2,On Medication,No,Yes,Not Done,2,60,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Generalized
+65,Female,57.4,137.0,Not on Medication,No,Yes,Normal,0,60,Focal,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Focal
+63,Male,66.5,164.9,On Medication,No,No,Normal,0,120,Focal,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Normal
+33,Male,53.6,160.1,On Medication,No,Yes,Normal,5,90,Generalized,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+7,Male,61.2,167.5,On Medication,No,Yes,Abnormal,5,120,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+12,Male,62.7,164.6,On Medication,No,Yes,Abnormal,2,90,Generalized,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Normal
+55,Female,42.9,175.6,On Medication,Yes,Yes,Normal,0,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+36,Male,77.1,186.9,On Medication,No,Yes,Not Done,0,90,Focal,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+6,Female,62.2,173.4,Not on Medication,No,Yes,Normal,5,30,Absence,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Absence
+1,Female,50.4,151.5,Not on Medication,No,Yes,Abnormal,1,30,Tonic-Clonic,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Generalized
+43,Male,56.5,159.1,On Medication,No,Yes,Normal,1,30,Focal,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+17,Male,66.9,150.4,On Medication,No,Yes,Abnormal,5,60,Absence,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Absence
+34,Female,85.3,141.4,On Medication,No,Yes,Abnormal,0,120,Focal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Focal
+21,Female,38.3,159.7,On Medication,Yes,Yes,Not Done,1,90,Absence,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Generalized
+57,Female,76.7,153.8,On Medication,No,Yes,Not Done,3,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Generalized
+71,Female,62.8,175.8,On Medication,No,Yes,Abnormal,0,60,Focal,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Focal
+55,Male,76.7,171.6,On Medication,No,Yes,Normal,3,30,Focal,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Not Confirmed
+72,Male,51.8,150.6,Not on Medication,No,Yes,Normal,1,60,Focal,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Generalized
+2,Male,66.1,169.7,Not on Medication,No,Yes,Not Done,5,30,Generalized,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Generalized
+15,Male,31.2,169.3,On Medication,No,No,Normal,0,30,Generalized,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Normal
+10,Male,59.2,157.4,On Medication,No,Yes,Normal,2,30,Focal,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Focal
+20,Male,60.7,176.9,On Medication,No,Yes,Normal,0,60,Tonic-Clonic,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Generalized
+70,Male,89.3,157.3,On Medication,No,Yes,Abnormal,0,30,Generalized,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+5,Male,50.3,158.1,On Medication,Yes,Yes,Not Done,2,30,Tonic-Clonic,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Generalized
+48,Female,72.7,167.0,On Medication,No,Yes,Abnormal,0,30,Absence,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Absence
+75,Female,86.2,156.3,On Medication,No,Yes,Abnormal,5,30,Focal,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Focal
+71,Female,58.2,163.7,On Medication,No,Yes,Abnormal,1,120,Focal,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Focal
+19,Other,74.3,161.2,Not on Medication,No,Yes,Normal,1,60,Absence,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Absence
+56,Male,82.4,163.3,Not on Medication,No,No,Abnormal,5,30,Generalized,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+17,Male,83.8,176.9,On Medication,No,Yes,Abnormal,2,120,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+6,Other,69.0,158.5,On Medication,No,Yes,Normal,5,30,Focal,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Focal
+40,Male,57.5,171.7,On Medication,No,Yes,Abnormal,5,30,Focal,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Focal
+47,Female,60.9,152.8,On Medication,No,No,Normal,10,30,Focal,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+6,Male,50.4,166.6,On Medication,No,Yes,Not Done,0,120,Absence,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Absence
+46,Male,44.7,162.0,On Medication,Yes,Yes,Normal,10,120,Generalized,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Complicated
+27,Male,62.0,166.8,Not on Medication,No,Yes,Normal,5,30,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Generalized
+32,Female,73.0,179.9,Not on Medication,No,No,Not Done,0,90,Absence,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Absence
+14,Male,64.7,166.0,On Medication,No,Yes,Normal,1,90,Focal,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Focal
+46,Male,62.1,171.7,Not on Medication,No,Yes,Normal,1,30,Absence,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Focal
+72,Male,60.8,164.5,Not on Medication,No,No,Not Done,0,30,Focal,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+53,Female,71.2,153.1,On Medication,No,Yes,Normal,3,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+80,Female,73.3,144.7,Not on Medication,No,Yes,Abnormal,1,30,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Generalized
+20,Female,60.9,155.4,Not on Medication,No,Yes,Normal,1,120,Focal,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Focal
+31,Male,73.6,161.2,On Medication,No,Yes,Normal,3,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+21,Female,60.4,184.9,Not on Medication,No,Yes,Abnormal,5,90,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Generalized
+23,Male,67.4,153.8,On Medication,Yes,No,Not Done,2,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+53,Male,61.5,164.5,Not on Medication,No,Yes,Normal,5,120,Focal,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Focal
+4,Male,54.5,154.7,On Medication,No,Yes,Abnormal,1,60,Absence,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Absence
+23,Male,50.9,160.9,On Medication,No,Yes,Normal,0,60,Tonic-Clonic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Complicated
+43,Male,61.3,145.7,On Medication,No,No,Abnormal,0,30,Focal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+53,Male,54.9,168.4,On Medication,No,Yes,Normal,0,120,Focal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+32,Female,93.9,155.5,Not on Medication,Yes,Yes,Normal,1,30,Tonic-Clonic,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Focal
+35,Female,75.7,157.2,On Medication,No,Yes,Normal,1,90,Focal,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Focal
+21,Other,56.4,174.7,Not on Medication,No,Yes,Abnormal,5,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+14,Female,93.6,154.6,Not on Medication,No,Yes,Normal,2,30,Absence,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Absence
+49,Female,76.6,172.1,On Medication,No,No,Not Done,0,90,Generalized,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Generalized
+5,Male,59.5,153.9,On Medication,No,No,Abnormal,1,30,Generalized,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+61,Female,58.0,173.5,On Medication,No,Yes,Abnormal,0,90,Focal,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Complicated
+29,Female,59.3,172.4,Not on Medication,No,No,Normal,10,120,Focal,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Focal
+26,Female,54.7,164.1,On Medication,No,Yes,Normal,5,60,Focal,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+59,Male,83.6,172.3,On Medication,No,Yes,Not Done,1,30,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Generalized
+45,Female,92.7,176.9,On Medication,No,Yes,Normal,3,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Generalized
+40,Male,45.7,162.0,On Medication,No,Yes,Normal,1,60,Generalized,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Generalized
+30,Female,52.2,167.3,Not on Medication,No,Yes,Normal,1,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+29,Male,80.1,168.2,Not on Medication,No,Yes,Abnormal,1,30,Focal,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+4,Female,39.6,173.0,On Medication,No,Yes,Normal,5,60,Absence,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Normal
+25,Male,64.0,150.9,Not on Medication,No,Yes,Normal,10,90,Generalized,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Generalized
+52,Female,81.9,171.8,Not on Medication,No,Yes,Abnormal,0,90,Absence,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Absence
+43,Female,49.6,180.9,On Medication,No,Yes,Normal,1,120,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Generalized
+36,Male,73.8,165.1,On Medication,No,Yes,Normal,10,60,Focal,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Focal
+9,Female,53.7,162.0,On Medication,No,Yes,Normal,3,30,Focal,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+36,Male,57.7,166.4,On Medication,No,Yes,Not Done,3,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Generalized
+45,Male,71.0,166.7,On Medication,No,Yes,Normal,0,120,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Generalized
+66,Female,56.1,177.5,Not on Medication,No,Yes,Not Done,0,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+52,Male,66.7,165.0,On Medication,No,Yes,Normal,0,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Generalized
+69,Male,48.4,178.3,On Medication,No,Yes,Normal,0,30,Generalized,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Normal
+43,Male,47.0,180.0,Not on Medication,No,Yes,Normal,1,120,Tonic-Clonic,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Complicated
+4,Male,58.2,166.6,On Medication,No,No,Normal,0,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Generalized
+15,Female,86.1,169.3,On Medication,No,No,Abnormal,0,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Generalized
+34,Male,74.4,168.6,On Medication,No,Yes,Normal,1,30,Focal,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Focal
+23,Male,85.7,172.6,Not on Medication,No,Yes,Normal,0,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Generalized
+75,Male,74.7,155.1,Not on Medication,No,Yes,Abnormal,0,60,Generalized,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Generalized
+34,Male,52.6,175.1,Not on Medication,No,Yes,Normal,2,60,Generalized,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+5,Female,54.5,169.3,Not on Medication,No,Yes,Normal,0,90,Focal,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+14,Male,81.4,150.3,On Medication,No,Yes,Normal,5,30,Generalized,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Generalized
+77,Male,70.4,154.6,On Medication,No,Yes,Normal,1,60,Absence,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Absence
+56,Other,33.5,158.3,On Medication,No,Yes,Abnormal,0,60,Absence,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Complicated
+45,Male,72.1,137.8,On Medication,No,Yes,Normal,0,30,Generalized,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Generalized
+41,Female,41.9,165.9,On Medication,No,Yes,Not Done,1,60,Focal,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Focal
+56,Female,73.3,184.9,On Medication,No,No,Abnormal,2,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Generalized
+78,Female,86.8,183.8,Not on Medication,No,Yes,Abnormal,0,60,Tonic-Clonic,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+66,Male,84.1,174.2,On Medication,Yes,Yes,Abnormal,0,90,Generalized,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Generalized
+15,Male,57.8,170.2,On Medication,No,Yes,Not Done,2,30,Generalized,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Generalized
+50,Male,65.6,173.9,On Medication,Yes,Yes,Not Done,1,30,Focal,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Focal
+74,Male,65.9,168.5,Not on Medication,No,Yes,Normal,1,30,Focal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+25,Male,70.2,165.4,On Medication,No,Yes,Normal,3,30,Focal,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Not Confirmed
+33,Female,72.7,175.7,Not on Medication,No,No,Abnormal,1,30,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+6,Female,78.3,179.0,On Medication,No,Yes,Normal,1,120,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Generalized
+56,Male,44.5,182.6,On Medication,No,Yes,Normal,2,120,Tonic-Clonic,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Generalized
+1,Male,81.0,187.8,On Medication,No,Yes,Abnormal,0,90,Absence,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Absence
+67,Female,55.6,163.0,On Medication,No,Yes,Abnormal,1,120,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Generalized
+69,Female,50.0,146.0,Not on Medication,No,Yes,Normal,3,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Generalized
+26,Male,69.4,152.9,On Medication,No,Yes,Normal,2,30,Focal,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+47,Female,71.3,145.6,On Medication,No,No,Normal,0,30,Tonic-Clonic,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Generalized
+56,Male,70.7,176.1,On Medication,No,Yes,Normal,0,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Generalized
+9,Male,66.5,145.3,Not on Medication,No,Yes,Abnormal,2,60,Focal,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Complicated
+43,Female,49.4,156.3,On Medication,No,No,Normal,0,60,Focal,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Focal
+80,Female,72.0,153.5,On Medication,Yes,Yes,Normal,10,60,Generalized,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Not Confirmed
+41,Male,70.0,170.0,Not on Medication,No,Yes,Normal,5,30,Tonic-Clonic,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Complicated
+16,Male,83.2,167.8,On Medication,No,No,Normal,10,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+39,Male,54.7,182.9,Not on Medication,No,Yes,Normal,5,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Generalized
+65,Male,66.4,172.5,Not on Medication,No,Yes,Not Done,0,30,Focal,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Focal
+40,Male,59.4,146.3,On Medication,No,Yes,Abnormal,2,60,Absence,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Normal
+53,Male,82.6,186.2,On Medication,No,Yes,Abnormal,3,30,Generalized,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Complicated
+42,Male,58.5,150.2,Not on Medication,No,Yes,Normal,1,30,Focal,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+52,Male,36.6,163.4,Not on Medication,No,Yes,Normal,2,60,Focal,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Focal
+38,Female,94.9,167.2,On Medication,No,Yes,Abnormal,0,60,Generalized,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Complicated
+71,Female,77.8,162.2,On Medication,No,No,Normal,3,60,Tonic-Clonic,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Focal
+17,Male,67.2,155.4,On Medication,No,Yes,Abnormal,1,30,Focal,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+25,Female,75.3,173.8,On Medication,No,Yes,Normal,10,60,Tonic-Clonic,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Normal
+54,Male,64.2,179.7,On Medication,No,No,Normal,2,90,Absence,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+49,Female,72.2,168.4,Not on Medication,No,Yes,Normal,1,30,Focal,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+23,Male,63.9,168.4,On Medication,No,No,Normal,2,120,Focal,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Focal
+79,Male,68.7,154.3,Not on Medication,Yes,Yes,Normal,5,90,Generalized,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Generalized
+73,Female,64.7,171.4,On Medication,No,Yes,Abnormal,0,120,Generalized,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Not Confirmed
+39,Male,58.9,170.4,Not on Medication,No,Yes,Normal,0,30,Focal,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Complicated
+52,Male,81.7,172.6,On Medication,No,Yes,Abnormal,5,120,Generalized,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Generalized
+71,Male,76.4,174.2,Not on Medication,No,Yes,Abnormal,1,30,Absence,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Focal
+1,Male,79.1,161.4,On Medication,No,Yes,Not Done,1,60,Generalized,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Generalized
+39,Female,51.9,151.9,On Medication,No,No,Normal,2,90,Generalized,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Generalized
+37,Female,88.4,154.6,On Medication,No,Yes,Normal,3,90,Tonic-Clonic,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Generalized
+27,Female,72.8,159.6,Not on Medication,No,Yes,Normal,10,60,Generalized,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Generalized
+56,Male,70.4,176.6,On Medication,No,Yes,Abnormal,1,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Generalized
+75,Male,74.8,183.1,On Medication,No,Yes,Abnormal,5,60,Focal,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Focal
+78,Male,76.5,161.1,On Medication,No,Yes,Normal,0,30,Absence,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Complicated
+42,Male,76.7,174.2,On Medication,No,No,Normal,0,120,Tonic-Clonic,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Normal
+60,Male,84.3,193.5,On Medication,Yes,No,Normal,1,30,Generalized,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Generalized
+57,Male,71.4,169.4,Not on Medication,No,Yes,Normal,5,30,Tonic-Clonic,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+57,Female,86.2,175.2,On Medication,No,Yes,Normal,3,90,Focal,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Focal
+28,Male,53.5,157.7,On Medication,No,Yes,Normal,2,60,Focal,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Focal
+66,Other,54.2,143.2,On Medication,No,Yes,Normal,1,30,Generalized,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+61,Other,71.2,168.1,On Medication,No,No,Abnormal,0,30,Focal,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Normal
+22,Female,54.6,163.9,Not on Medication,No,Yes,Normal,2,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Generalized
+11,Male,85.0,156.1,On Medication,No,No,Normal,1,120,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Generalized
+37,Male,45.8,154.1,Not on Medication,No,No,Not Done,0,30,Generalized,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Normal
+66,Male,67.8,161.3,On Medication,No,Yes,Normal,5,30,Focal,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Focal
+80,Female,64.7,150.3,On Medication,No,Yes,Normal,2,30,Focal,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+43,Male,73.8,169.4,On Medication,No,Yes,Normal,0,120,Focal,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+12,Male,56.1,164.8,On Medication,No,No,Abnormal,2,60,Focal,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Focal
+31,Female,92.9,166.2,On Medication,No,Yes,Not Done,1,30,Focal,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+40,Male,55.5,149.3,On Medication,No,Yes,Abnormal,1,30,Focal,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+29,Male,47.6,166.3,On Medication,No,Yes,Abnormal,1,90,Focal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Focal
+26,Female,48.8,170.6,On Medication,No,No,Abnormal,1,60,Focal,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Focal
+19,Female,61.0,157.7,On Medication,No,Yes,Abnormal,1,30,Tonic-Clonic,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Generalized
+4,Other,53.9,158.7,On Medication,No,No,Normal,1,120,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+6,Male,82.2,164.4,Not on Medication,No,No,Normal,1,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Generalized
+32,Female,77.6,159.6,On Medication,No,Yes,Normal,1,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Generalized
+61,Male,56.4,182.6,On Medication,No,Yes,Normal,10,60,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Generalized
+79,Female,70.6,157.7,On Medication,Yes,Yes,Abnormal,2,30,Focal,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Focal
+10,Female,59.9,184.5,On Medication,No,Yes,Normal,0,90,Absence,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Absence
+59,Male,66.4,182.3,On Medication,No,Yes,Normal,1,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Generalized
+54,Other,63.8,158.9,On Medication,No,Yes,Abnormal,1,60,Focal,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Focal
+74,Male,66.1,159.4,On Medication,No,Yes,Abnormal,3,60,Focal,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Complicated
+25,Female,54.3,156.7,On Medication,No,Yes,Abnormal,0,60,Generalized,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Normal
+50,Female,83.5,169.4,On Medication,No,Yes,Normal,1,30,Tonic-Clonic,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Generalized
+64,Male,62.1,161.9,On Medication,No,Yes,Not Done,1,30,Generalized,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Generalized
+52,Male,55.2,186.2,On Medication,No,Yes,Abnormal,5,90,Focal,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Focal
+32,Male,85.8,184.5,On Medication,No,Yes,Not Done,5,30,Focal,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+19,Female,70.1,158.5,Not on Medication,No,Yes,Abnormal,1,60,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+1,Male,68.1,146.6,On Medication,Yes,Yes,Abnormal,10,30,Absence,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Absence
+14,Male,84.6,160.6,Not on Medication,No,No,Normal,0,60,Absence,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Absence
+55,Female,50.7,164.1,On Medication,No,Yes,Normal,3,30,Focal,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+29,Female,69.0,177.1,On Medication,No,Yes,Abnormal,1,60,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+23,Female,72.7,173.7,On Medication,No,Yes,Normal,2,30,Absence,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Absence
+67,Female,85.8,169.2,On Medication,Yes,Yes,Not Done,2,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Generalized
+60,Male,42.8,168.5,On Medication,Yes,Yes,Normal,5,30,Focal,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Focal
+7,Male,79.6,169.4,On Medication,No,Yes,Normal,1,90,Absence,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Complicated
+72,Male,64.4,165.7,On Medication,No,Yes,Normal,1,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+32,Female,88.4,171.6,On Medication,Yes,Yes,Normal,1,60,Absence,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Focal
+16,Male,58.0,176.3,On Medication,No,Yes,Normal,1,30,Focal,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Generalized
+59,Female,44.2,164.9,On Medication,No,Yes,Normal,5,60,Focal,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Focal
+18,Male,66.8,176.9,On Medication,No,Yes,Not Done,0,60,Absence,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Absence
+60,Male,55.6,161.9,On Medication,No,Yes,Normal,0,30,Tonic-Clonic,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Complicated
+68,Female,62.9,171.1,On Medication,No,Yes,Abnormal,2,30,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Generalized
+72,Female,73.3,184.0,On Medication,No,Yes,Normal,3,90,Generalized,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Normal
+77,Female,61.2,181.2,On Medication,No,Yes,Normal,3,30,Generalized,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Focal
+41,Male,56.7,166.5,On Medication,No,Yes,Abnormal,0,30,Generalized,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Focal
+57,Female,78.0,179.7,On Medication,No,Yes,Abnormal,0,120,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Generalized
+79,Female,64.5,158.5,On Medication,No,Yes,Abnormal,1,60,Generalized,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Complicated
+65,Male,76.6,162.8,Not on Medication,No,Yes,Normal,2,60,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Generalized
+55,Male,48.2,173.3,On Medication,No,Yes,Abnormal,0,30,Focal,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Focal
+71,Female,58.7,162.1,On Medication,No,Yes,Not Done,3,60,Absence,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Not Confirmed
+58,Male,75.5,166.2,On Medication,No,Yes,Normal,5,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Generalized
+21,Female,59.7,173.4,On Medication,Yes,Yes,Normal,1,30,Focal,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Focal
+61,Male,75.5,168.2,On Medication,Yes,Yes,Normal,0,120,Generalized,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+58,Male,65.1,164.9,On Medication,No,Yes,Normal,5,60,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Generalized
+34,Male,73.9,172.0,On Medication,No,Yes,Normal,1,90,Generalized,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Generalized
+32,Female,70.8,186.9,On Medication,No,No,Normal,2,90,Generalized,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Generalized
+36,Male,49.1,148.9,Not on Medication,No,Yes,Normal,3,60,Focal,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Focal
+67,Male,85.4,151.3,Not on Medication,No,Yes,Normal,10,60,Focal,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Complicated
+63,Female,63.3,166.3,On Medication,Yes,Yes,Abnormal,5,60,Absence,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Absence
+31,Male,59.7,165.3,Not on Medication,No,No,Abnormal,5,120,Focal,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+36,Female,25.5,156.1,On Medication,No,Yes,Abnormal,1,90,Generalized,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Absence
+57,Male,82.9,162.2,On Medication,No,Yes,Abnormal,1,60,Focal,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Focal
+10,Male,67.8,171.2,Not on Medication,No,No,Not Done,0,120,Focal,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+37,Female,59.5,174.5,On Medication,No,Yes,Abnormal,0,90,Generalized,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Absence
+31,Female,63.1,161.4,On Medication,Yes,Yes,Abnormal,5,60,Generalized,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Generalized
+35,Male,71.9,154.0,On Medication,No,Yes,Normal,0,90,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+43,Female,53.3,160.4,On Medication,No,Yes,Normal,2,90,Focal,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Not Confirmed
+41,Female,64.1,166.8,On Medication,No,Yes,Normal,2,30,Focal,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+70,Female,63.8,164.8,On Medication,No,Yes,Normal,0,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Generalized
+11,Male,79.1,149.7,On Medication,No,Yes,Normal,5,90,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Complicated
+18,Male,47.2,173.3,On Medication,No,Yes,Abnormal,0,30,Focal,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Focal
+20,Female,62.2,173.3,Not on Medication,No,Yes,Normal,3,30,Generalized,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+30,Male,53.0,146.9,On Medication,No,No,Normal,0,30,Absence,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Absence
+50,Male,83.4,147.5,On Medication,No,Yes,Not Done,2,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Generalized
+20,Male,60.4,153.5,On Medication,No,Yes,Abnormal,10,30,Focal,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+28,Male,76.7,173.3,On Medication,No,No,Abnormal,0,120,Tonic-Clonic,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Normal
+9,Male,45.0,149.9,Not on Medication,No,Yes,Abnormal,2,120,Generalized,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Generalized
+54,Male,59.9,163.7,Not on Medication,No,Yes,Normal,0,60,Tonic-Clonic,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+53,Female,62.7,169.8,On Medication,No,Yes,Normal,0,90,Generalized,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Complicated
+43,Female,93.3,152.7,On Medication,Yes,Yes,Abnormal,1,60,Focal,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Complicated
+70,Male,88.7,170.1,On Medication,No,No,Not Done,0,30,Tonic-Clonic,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Generalized
+60,Female,79.3,168.7,Not on Medication,No,Yes,Abnormal,3,30,Focal,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Normal
+54,Female,66.7,151.9,Not on Medication,No,Yes,Abnormal,1,60,Focal,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+8,Female,57.0,166.0,Not on Medication,No,Yes,Abnormal,3,90,Generalized,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Generalized
+27,Male,85.1,165.9,On Medication,No,Yes,Abnormal,0,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Generalized
+54,Female,73.5,175.7,On Medication,No,Yes,Abnormal,0,60,Tonic-Clonic,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Complicated
+50,Female,100.0,169.0,On Medication,No,Yes,Not Done,2,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Generalized
+75,Male,34.2,157.8,On Medication,No,Yes,Normal,1,60,Focal,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Focal
+3,Female,42.4,174.9,On Medication,Yes,Yes,Normal,1,30,Absence,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+74,Female,68.1,172.8,Not on Medication,No,Yes,Abnormal,2,120,Focal,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Complicated
+49,Male,73.8,161.7,Not on Medication,Yes,Yes,Normal,3,60,Focal,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Focal
+62,Male,69.1,159.6,On Medication,No,Yes,Normal,1,60,Generalized,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Generalized
+1,Male,91.3,183.1,Not on Medication,No,Yes,Not Done,2,30,Absence,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Absence
+46,Female,75.8,146.8,On Medication,No,Yes,Abnormal,3,30,Focal,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Complicated
+39,Female,43.6,177.9,On Medication,No,No,Abnormal,1,30,Absence,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Complicated
+50,Female,73.3,151.8,On Medication,No,Yes,Abnormal,3,60,Tonic-Clonic,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+54,Female,71.4,146.9,On Medication,No,Yes,Normal,0,30,Tonic-Clonic,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+69,Other,74.0,156.4,On Medication,No,Yes,Normal,1,30,Generalized,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+70,Female,41.4,177.3,On Medication,No,Yes,Abnormal,2,90,Tonic-Clonic,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Absence
+78,Male,74.1,170.3,Not on Medication,No,Yes,Abnormal,3,30,Focal,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+29,Male,71.6,139.4,On Medication,No,Yes,Normal,2,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+63,Male,74.4,148.7,On Medication,No,Yes,Normal,2,30,Focal,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+29,Male,52.8,158.6,On Medication,No,Yes,Normal,3,90,Focal,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Complicated
+35,Female,47.3,171.3,On Medication,No,Yes,Abnormal,3,30,Generalized,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Generalized
+56,Other,87.7,151.9,On Medication,No,Yes,Normal,1,30,Absence,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Not Confirmed
+63,Male,70.7,163.0,Not on Medication,No,Yes,Abnormal,5,30,Generalized,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Generalized
+4,Female,55.4,163.4,On Medication,No,No,Normal,3,30,Absence,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Absence
+50,Female,58.6,146.5,On Medication,No,Yes,Abnormal,1,120,Tonic-Clonic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Normal
+44,Male,71.6,166.7,On Medication,No,Yes,Abnormal,5,90,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Generalized
+52,Female,67.2,165.2,On Medication,No,Yes,Not Done,0,30,Absence,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Absence
+22,Female,51.1,166.9,On Medication,No,Yes,Normal,0,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Generalized
+60,Female,82.6,152.2,On Medication,No,Yes,Abnormal,1,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Generalized
+17,Female,78.5,168.2,On Medication,No,Yes,Normal,1,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Generalized
+80,Female,20.7,159.8,Not on Medication,No,Yes,Abnormal,0,60,Focal,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+69,Female,79.9,172.4,On Medication,No,No,Abnormal,0,30,Tonic-Clonic,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Generalized
+4,Male,45.6,153.3,On Medication,No,Yes,Abnormal,2,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Generalized
+51,Female,58.8,163.7,Not on Medication,No,Yes,Abnormal,2,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+76,Female,52.1,159.1,Not on Medication,No,Yes,Normal,0,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Generalized
+73,Female,51.9,157.6,Not on Medication,No,Yes,Abnormal,0,60,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Generalized
+4,Female,55.0,159.4,On Medication,No,Yes,Not Done,1,120,Generalized,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Generalized
+11,Female,82.1,142.7,Not on Medication,No,Yes,Normal,10,120,Absence,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Absence
+55,Male,69.3,145.2,Not on Medication,No,No,Abnormal,1,30,Focal,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Focal
+18,Female,62.3,162.5,On Medication,No,Yes,Normal,0,30,Generalized,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+60,Female,36.6,178.5,On Medication,No,No,Abnormal,1,120,Focal,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+24,Male,56.5,166.8,On Medication,No,Yes,Normal,2,60,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+7,Female,72.3,175.7,On Medication,No,Yes,Not Done,3,90,Focal,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Focal
+34,Female,72.3,172.9,On Medication,No,Yes,Abnormal,5,60,Absence,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Absence
+49,Female,62.3,174.5,On Medication,No,Yes,Abnormal,5,90,Generalized,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Not Confirmed
+42,Female,32.4,155.4,On Medication,No,Yes,Not Done,0,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+28,Male,40.3,166.3,On Medication,No,Yes,Normal,2,120,Tonic-Clonic,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+59,Male,51.0,175.9,On Medication,No,Yes,Normal,1,90,Absence,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Generalized
+42,Female,61.6,169.3,On Medication,No,Yes,Abnormal,0,120,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+44,Other,75.9,146.9,On Medication,No,Yes,Normal,0,90,Absence,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Absence
+49,Female,54.8,161.9,On Medication,No,Yes,Abnormal,0,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Generalized
+36,Male,57.6,162.7,Not on Medication,No,Yes,Abnormal,2,60,Absence,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Absence
+54,Female,33.2,156.8,On Medication,No,Yes,Not Done,1,60,Focal,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Focal
+33,Female,57.8,158.8,On Medication,No,Yes,Abnormal,1,60,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+11,Female,51.3,155.8,Not on Medication,No,Yes,Abnormal,1,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+61,Female,91.2,174.6,On Medication,Yes,Yes,Abnormal,0,120,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Generalized
+3,Male,58.4,174.8,On Medication,No,Yes,Not Done,2,30,Tonic-Clonic,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Complicated
+70,Male,84.8,148.9,On Medication,No,Yes,Normal,1,30,Focal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Focal
+7,Male,82.6,160.2,On Medication,Yes,Yes,Abnormal,0,60,Generalized,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Generalized
+45,Male,98.1,166.3,On Medication,No,Yes,Abnormal,3,60,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+29,Male,61.9,159.7,On Medication,No,Yes,Normal,1,90,Generalized,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Generalized
+9,Male,16.2,186.1,On Medication,No,Yes,Normal,5,90,Absence,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Complicated
+6,Male,82.6,154.5,On Medication,No,Yes,Normal,3,90,Focal,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Focal
+4,Male,65.8,172.6,Not on Medication,No,Yes,Abnormal,2,60,Focal,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Focal
+32,Female,59.9,188.0,Not on Medication,No,Yes,Normal,2,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Generalized
+26,Male,66.7,154.6,On Medication,No,Yes,Not Done,5,60,Tonic-Clonic,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Complicated
+3,Female,21.0,177.8,On Medication,No,Yes,Normal,1,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Generalized
+80,Female,63.1,163.2,On Medication,No,No,Normal,1,30,Tonic-Clonic,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Complicated
+20,Male,54.0,156.0,On Medication,No,Yes,Abnormal,3,60,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Generalized
+31,Female,69.7,173.1,On Medication,No,Yes,Abnormal,5,90,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Generalized
+17,Female,62.5,164.0,On Medication,Yes,No,Abnormal,2,90,Absence,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Complicated
+61,Male,67.5,175.0,On Medication,No,Yes,Normal,3,30,Absence,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Focal
+15,Male,84.7,154.9,On Medication,No,Yes,Normal,3,90,Tonic-Clonic,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+73,Male,62.9,142.7,Not on Medication,No,Yes,Not Done,2,60,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Complicated
+28,Male,66.2,161.7,On Medication,No,Yes,Abnormal,0,60,Focal,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Not Confirmed
+60,Male,58.6,177.0,Not on Medication,No,Yes,Normal,1,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Generalized
+33,Female,78.7,168.9,On Medication,No,Yes,Normal,1,90,Generalized,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+48,Male,50.2,162.9,On Medication,No,Yes,Not Done,2,120,Focal,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+22,Male,40.4,148.5,On Medication,No,Yes,Not Done,2,90,Generalized,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Focal
+78,Female,88.8,165.4,On Medication,No,Yes,Normal,0,60,Tonic-Clonic,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Normal
+78,Other,65.2,188.6,On Medication,No,Yes,Normal,0,120,Focal,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Focal
+15,Male,79.6,176.5,On Medication,No,Yes,Normal,10,30,Absence,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Normal
+21,Female,71.8,167.7,On Medication,No,Yes,Not Done,10,120,Generalized,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+40,Male,46.0,166.6,On Medication,No,No,Normal,2,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+14,Male,10.5,185.9,On Medication,No,Yes,Not Done,5,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+75,Male,59.1,155.3,Not on Medication,Yes,No,Normal,3,60,Generalized,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Complicated
+4,Female,90.3,177.3,On Medication,No,Yes,Not Done,0,60,Focal,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Focal
+40,Female,67.7,177.9,On Medication,No,No,Normal,0,30,Focal,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Normal
+74,Female,56.7,191.7,Not on Medication,No,No,Normal,0,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,Generalized
+49,Male,54.1,175.5,On Medication,No,Yes,Abnormal,0,120,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Generalized
+51,Female,75.1,172.2,On Medication,No,Yes,Abnormal,1,60,Absence,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Generalized
+26,Male,61.6,164.8,On Medication,No,Yes,Normal,2,90,Focal,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+10,Male,41.9,168.9,On Medication,Yes,Yes,Not Done,1,60,Absence,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Complicated
+76,Male,53.5,155.7,Not on Medication,No,Yes,Not Done,5,60,Focal,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Focal
+32,Male,82.4,176.5,Not on Medication,Yes,Yes,Abnormal,0,120,Generalized,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+14,Male,71.7,152.6,On Medication,No,Yes,Normal,2,30,Focal,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+39,Female,87.6,162.5,On Medication,No,Yes,Abnormal,3,120,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Generalized
+77,Male,66.1,158.1,On Medication,No,Yes,Normal,2,30,Focal,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Absence
+16,Female,51.8,163.1,Not on Medication,No,No,Abnormal,1,60,Generalized,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Generalized
+73,Female,63.7,175.9,Not on Medication,Yes,No,Not Done,2,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+6,Male,30.8,153.9,Not on Medication,No,Yes,Normal,2,60,Absence,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Normal
+45,Male,67.9,150.6,On Medication,No,Yes,Normal,1,60,Focal,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+69,Female,70.4,166.0,On Medication,Yes,Yes,Not Done,5,30,Focal,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Complicated
+55,Male,34.5,167.1,On Medication,Yes,No,Abnormal,0,60,Focal,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Focal
+48,Male,74.1,178.0,On Medication,No,Yes,Not Done,1,90,Focal,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Focal
+9,Male,65.6,152.6,On Medication,No,Yes,Normal,0,30,Tonic-Clonic,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+65,Male,52.5,178.6,On Medication,No,Yes,Normal,1,30,Focal,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Complicated
+44,Female,52.0,174.2,On Medication,No,Yes,Abnormal,5,90,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+2,Female,62.4,165.9,On Medication,No,Yes,Normal,2,90,Absence,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+54,Female,88.6,180.5,On Medication,No,No,Normal,0,90,Absence,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Absence
+63,Male,63.8,174.9,Not on Medication,No,Yes,Normal,1,120,Generalized,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+14,Male,50.4,172.6,On Medication,Yes,Yes,Normal,1,30,Absence,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Complicated
+56,Female,42.9,169.4,Not on Medication,Yes,Yes,Abnormal,5,30,Generalized,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+47,Female,62.9,172.9,On Medication,No,Yes,Normal,1,90,Focal,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Focal
+59,Female,55.7,180.7,On Medication,No,Yes,Abnormal,0,90,Focal,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+20,Male,68.1,165.9,Not on Medication,No,Yes,Abnormal,1,30,Focal,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Focal
+56,Male,80.4,164.8,On Medication,Yes,Yes,Abnormal,5,60,Generalized,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Generalized
+23,Male,50.5,159.3,Not on Medication,No,Yes,Normal,2,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Generalized
+67,Male,75.0,176.0,On Medication,No,Yes,Abnormal,10,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Generalized
+35,Female,57.4,173.3,On Medication,No,Yes,Abnormal,1,90,Tonic-Clonic,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+79,Male,39.4,176.3,On Medication,No,Yes,Abnormal,0,30,Focal,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Not Confirmed
+69,Male,72.3,157.0,On Medication,No,Yes,Normal,1,90,Generalized,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Generalized
+62,Male,61.2,168.9,On Medication,No,Yes,Normal,3,30,Absence,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Absence
+60,Male,45.5,156.5,On Medication,No,Yes,Not Done,0,90,Tonic-Clonic,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Generalized
+56,Female,38.5,170.8,On Medication,No,Yes,Normal,5,30,Focal,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Focal
+76,Female,54.9,181.7,On Medication,No,Yes,Normal,3,60,Focal,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Focal
+35,Female,77.7,159.8,On Medication,Yes,Yes,Abnormal,5,90,Generalized,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Generalized
+42,Male,72.4,162.0,On Medication,No,Yes,Normal,1,90,Focal,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Focal
+32,Female,59.7,164.3,On Medication,No,Yes,Normal,0,30,Focal,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Focal
+12,Female,62.2,166.6,Not on Medication,No,Yes,Normal,1,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Generalized
+36,Male,66.2,159.2,On Medication,No,Yes,Abnormal,2,60,Focal,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Focal
+58,Female,57.2,171.1,On Medication,No,No,Normal,2,30,Focal,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Complicated
+32,Male,71.9,175.5,On Medication,No,Yes,Normal,5,60,Tonic-Clonic,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+60,Male,64.0,167.1,Not on Medication,Yes,Yes,Normal,2,60,Generalized,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+73,Male,63.4,175.3,On Medication,No,Yes,Normal,0,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+79,Other,50.8,180.0,On Medication,No,No,Abnormal,1,60,Tonic-Clonic,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Generalized
+49,Female,70.5,170.4,On Medication,No,Yes,Normal,0,30,Focal,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Generalized
+44,Female,46.2,165.2,On Medication,No,Yes,Not Done,3,60,Tonic-Clonic,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+4,Male,72.8,158.3,On Medication,No,Yes,Abnormal,3,120,Generalized,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Complicated
+64,Male,50.7,161.4,On Medication,No,Yes,Normal,10,30,Generalized,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Normal
+42,Female,56.5,171.3,On Medication,No,Yes,Not Done,2,30,Generalized,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Focal
+24,Male,72.3,163.0,On Medication,No,No,Normal,5,60,Generalized,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Generalized
+63,Male,76.0,169.3,Not on Medication,No,Yes,Abnormal,2,90,Focal,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Focal
+28,Female,92.2,176.4,On Medication,Yes,Yes,Abnormal,2,30,Generalized,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+46,Male,78.4,160.8,On Medication,No,No,Abnormal,0,120,Focal,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Normal
+34,Female,94.5,170.5,On Medication,No,Yes,Normal,3,60,Generalized,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Generalized
+44,Male,78.9,150.4,On Medication,No,Yes,Abnormal,0,60,Tonic-Clonic,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Generalized
+36,Other,56.0,178.8,Not on Medication,No,No,Abnormal,3,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Generalized
+77,Male,64.2,164.1,On Medication,No,Yes,Normal,10,90,Focal,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Focal
+36,Female,63.2,158.5,On Medication,Yes,Yes,Normal,0,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Generalized
+72,Male,64.5,162.2,On Medication,No,Yes,Abnormal,2,60,Generalized,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Generalized
+2,Other,67.4,162.2,On Medication,No,Yes,Normal,10,90,Generalized,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Complicated
+67,Male,62.2,169.3,On Medication,No,Yes,Abnormal,5,60,Focal,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Absence
+25,Other,80.8,156.7,Not on Medication,No,Yes,Abnormal,3,90,Generalized,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+11,Male,58.7,161.1,Not on Medication,Yes,No,Normal,1,120,Absence,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Absence
+31,Male,98.2,176.3,On Medication,No,Yes,Normal,0,120,Generalized,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+53,Female,65.8,164.3,On Medication,No,Yes,Normal,0,90,Tonic-Clonic,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+63,Male,65.2,186.2,On Medication,No,Yes,Abnormal,3,120,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Generalized
+72,Female,47.1,152.1,On Medication,No,Yes,Normal,2,60,Generalized,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Generalized
+31,Male,75.6,156.8,On Medication,No,Yes,Abnormal,0,60,Tonic-Clonic,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Generalized
+61,Male,86.6,167.1,On Medication,No,No,Not Done,1,30,Focal,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Focal
+63,Female,78.5,162.1,On Medication,Yes,Yes,Abnormal,3,60,Tonic-Clonic,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+58,Male,59.3,147.9,On Medication,Yes,Yes,Abnormal,2,120,Absence,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Absence
+3,Female,81.2,177.4,On Medication,Yes,Yes,Not Done,0,120,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+12,Male,67.0,175.9,On Medication,No,Yes,Abnormal,1,60,Tonic-Clonic,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Focal
+38,Male,69.9,155.0,On Medication,No,Yes,Normal,1,60,Focal,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Normal
+29,Female,94.9,171.9,Not on Medication,No,Yes,Abnormal,1,90,Tonic-Clonic,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Complicated
+52,Male,71.3,161.3,On Medication,No,Yes,Normal,0,30,Generalized,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Not Confirmed
+32,Female,68.6,159.1,On Medication,No,Yes,Normal,3,30,Absence,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+40,Female,67.2,161.8,Not on Medication,No,No,Abnormal,0,30,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+75,Female,59.9,145.9,Not on Medication,No,Yes,Abnormal,1,30,Focal,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,Focal
+48,Male,83.0,152.2,On Medication,Yes,Yes,Normal,0,30,Generalized,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+61,Male,69.6,165.6,Not on Medication,No,Yes,Not Done,1,30,Focal,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Focal
+71,Male,76.0,159.9,Not on Medication,No,No,Normal,0,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Generalized
+68,Female,56.8,163.2,On Medication,No,No,Abnormal,10,60,Focal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Focal
+45,Male,41.9,173.9,On Medication,No,No,Abnormal,10,60,Generalized,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+55,Male,102.3,176.9,Not on Medication,No,Yes,Not Done,5,60,Generalized,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+71,Male,81.7,159.1,On Medication,No,Yes,Normal,3,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Generalized
+43,Male,51.7,164.8,On Medication,No,Yes,Abnormal,2,60,Generalized,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Generalized
+46,Female,86.9,162.7,Not on Medication,No,Yes,Not Done,0,30,Generalized,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+59,Male,93.7,160.7,On Medication,No,Yes,Not Done,2,90,Focal,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+35,Female,56.5,162.1,On Medication,No,Yes,Abnormal,0,30,Absence,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Absence
+40,Male,77.7,164.4,On Medication,No,Yes,Abnormal,0,90,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Generalized
+33,Male,68.8,173.6,On Medication,No,Yes,Normal,0,90,Generalized,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Complicated
+30,Male,49.6,169.8,On Medication,No,Yes,Abnormal,0,120,Focal,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+16,Male,71.9,154.3,Not on Medication,No,Yes,Normal,2,90,Absence,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Absence
+25,Male,48.1,162.0,On Medication,No,No,Normal,5,60,Focal,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Focal
+41,Male,53.1,168.3,On Medication,No,Yes,Normal,2,60,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+16,Male,43.4,177.7,Not on Medication,No,Yes,Abnormal,5,120,Generalized,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Generalized
+69,Female,66.8,160.2,On Medication,Yes,Yes,Normal,2,60,Generalized,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+24,Female,85.2,144.4,On Medication,No,Yes,Abnormal,1,30,Focal,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Complicated
+25,Male,65.7,166.4,On Medication,No,Yes,Normal,10,30,Generalized,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Not Confirmed
+28,Female,60.6,174.1,On Medication,No,Yes,Not Done,5,120,Focal,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+62,Female,56.6,165.5,Not on Medication,No,Yes,Normal,0,120,Tonic-Clonic,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Complicated
+36,Male,65.9,167.4,On Medication,Yes,Yes,Abnormal,0,90,Focal,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Focal
+76,Male,88.2,179.9,On Medication,No,No,Normal,5,60,Focal,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Focal
+68,Female,72.0,179.2,On Medication,No,Yes,Abnormal,10,30,Focal,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Focal
+77,Female,66.2,162.7,On Medication,No,Yes,Abnormal,5,120,Absence,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Absence
+37,Male,63.9,177.6,Not on Medication,No,Yes,Normal,2,90,Absence,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Absence
+13,Female,61.5,150.2,Not on Medication,No,Yes,Abnormal,3,90,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Generalized
+25,Male,42.2,161.4,Not on Medication,No,Yes,Abnormal,0,90,Focal,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+38,Female,73.6,173.1,On Medication,No,Yes,Normal,1,90,Tonic-Clonic,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Generalized
+30,Male,98.7,165.7,On Medication,No,Yes,Normal,1,30,Generalized,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Focal
+47,Female,59.8,166.9,On Medication,No,Yes,Abnormal,5,30,Generalized,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Generalized
+23,Female,58.0,149.3,Not on Medication,No,Yes,Not Done,0,120,Generalized,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+39,Male,78.3,166.1,Not on Medication,Yes,Yes,Normal,2,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Generalized
+2,Male,70.7,173.2,On Medication,No,Yes,Not Done,3,90,Focal,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Focal
+69,Male,65.4,162.3,On Medication,No,Yes,Abnormal,1,30,Focal,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Complicated
+17,Female,61.5,164.8,Not on Medication,No,Yes,Normal,3,60,Absence,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Complicated
+36,Male,67.4,170.7,Not on Medication,No,Yes,Normal,2,30,Absence,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Absence
+6,Male,40.8,177.3,Not on Medication,No,Yes,Abnormal,3,60,Absence,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Absence
+7,Female,67.3,184.7,Not on Medication,No,Yes,Normal,3,30,Focal,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+71,Female,62.6,157.8,On Medication,No,Yes,Not Done,0,30,Focal,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Focal
+38,Male,60.6,167.3,On Medication,No,Yes,Abnormal,1,60,Focal,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+17,Male,47.2,169.7,On Medication,No,Yes,Abnormal,2,90,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Generalized
+63,Male,70.9,170.6,On Medication,No,Yes,Not Done,10,60,Generalized,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+14,Male,76.8,174.7,On Medication,Yes,Yes,Abnormal,0,90,Absence,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Absence
+2,Female,52.9,169.2,On Medication,No,Yes,Normal,1,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Generalized
+74,Female,82.7,146.2,On Medication,No,Yes,Normal,1,90,Focal,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Generalized
+37,Male,96.7,170.2,On Medication,No,Yes,Abnormal,5,90,Absence,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Absence
+61,Female,68.2,175.5,On Medication,No,No,Abnormal,1,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+62,Male,77.6,172.2,Not on Medication,No,Yes,Normal,2,90,Focal,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Focal
+57,Male,59.4,187.3,Not on Medication,No,Yes,Abnormal,1,60,Absence,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Absence
+44,Male,46.1,168.6,On Medication,No,Yes,Abnormal,10,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Generalized
+24,Male,70.8,156.2,Not on Medication,Yes,No,Abnormal,0,60,Focal,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+7,Female,63.6,154.5,Not on Medication,No,Yes,Normal,0,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,Generalized
+33,Male,81.6,178.1,On Medication,No,Yes,Abnormal,1,30,Focal,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Focal
+62,Female,57.1,169.4,On Medication,No,No,Normal,0,90,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Generalized
+15,Other,73.7,156.3,On Medication,No,No,Not Done,0,30,Absence,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Normal
+9,Male,75.1,135.2,On Medication,No,Yes,Not Done,5,60,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Generalized
+52,Male,62.9,163.2,Not on Medication,No,Yes,Not Done,3,120,Absence,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Absence
+63,Male,78.7,170.7,On Medication,No,Yes,Not Done,0,60,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Generalized
+10,Female,49.9,155.3,On Medication,No,Yes,Abnormal,1,90,Focal,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Focal
+74,Male,42.8,164.9,On Medication,No,Yes,Normal,1,60,Focal,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Focal
+7,Female,70.7,173.2,On Medication,No,Yes,Normal,0,30,Tonic-Clonic,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+20,Female,49.4,155.9,On Medication,No,Yes,Not Done,3,60,Focal,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Complicated
+20,Male,64.3,164.4,On Medication,No,Yes,Normal,0,60,Generalized,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+73,Female,96.9,157.6,On Medication,No,Yes,Normal,1,30,Focal,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Focal
+39,Female,56.0,151.8,Not on Medication,No,Yes,Normal,2,60,Focal,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Focal
+11,Male,54.0,155.9,On Medication,No,Yes,Abnormal,2,90,Absence,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Absence
+32,Other,109.1,158.3,On Medication,No,No,Normal,2,30,Absence,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Absence
+16,Female,38.0,165.7,On Medication,No,Yes,Not Done,1,30,Absence,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Focal
+72,Female,48.7,159.3,On Medication,No,Yes,Normal,3,90,Focal,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+54,Male,87.5,161.9,On Medication,No,Yes,Normal,1,60,Focal,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+78,Male,72.6,171.1,On Medication,No,Yes,Abnormal,3,60,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Generalized
+77,Male,77.8,178.3,On Medication,No,Yes,Normal,2,60,Generalized,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Generalized
+80,Female,82.4,160.4,On Medication,No,Yes,Not Done,0,30,Generalized,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+29,Male,42.4,167.9,On Medication,No,Yes,Abnormal,0,30,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Normal
+67,Female,86.9,167.7,On Medication,No,Yes,Abnormal,1,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Generalized
+49,Female,77.2,159.3,On Medication,No,Yes,Normal,2,30,Focal,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Focal
+58,Male,94.5,153.1,On Medication,No,Yes,Abnormal,0,30,Generalized,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Generalized
+57,Male,67.2,160.8,On Medication,Yes,Yes,Normal,1,60,Focal,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Complicated
+39,Female,58.8,167.3,On Medication,No,Yes,Normal,0,30,Generalized,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+76,Male,59.8,148.2,Not on Medication,No,Yes,Normal,2,90,Focal,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Absence
+55,Male,84.9,179.8,On Medication,No,Yes,Abnormal,0,30,Focal,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Focal
+40,Male,67.9,155.9,On Medication,No,No,Not Done,3,30,Focal,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Focal
+73,Female,65.9,176.3,On Medication,No,Yes,Abnormal,2,60,Focal,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Focal
+80,Female,67.2,155.6,On Medication,No,Yes,Not Done,5,90,Focal,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Complicated
+8,Male,71.7,163.9,Not on Medication,No,Yes,Abnormal,3,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Generalized
+79,Male,94.3,152.6,Not on Medication,No,Yes,Normal,2,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+13,Male,57.7,169.3,On Medication,No,Yes,Not Done,0,60,Generalized,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+27,Male,69.0,158.2,On Medication,No,Yes,Normal,0,90,Generalized,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+28,Female,73.0,155.2,On Medication,No,Yes,Abnormal,3,90,Generalized,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Generalized
+34,Female,74.0,181.5,On Medication,Yes,Yes,Not Done,10,120,Focal,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Focal
+11,Male,72.4,170.2,Not on Medication,No,Yes,Normal,1,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Generalized
+21,Female,47.0,163.2,On Medication,No,Yes,Normal,0,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Generalized
+31,Male,83.0,174.8,On Medication,No,Yes,Not Done,3,30,Focal,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Focal
+23,Male,58.9,171.1,Not on Medication,No,Yes,Abnormal,0,90,Generalized,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+71,Male,63.7,150.0,Not on Medication,No,Yes,Normal,0,120,Tonic-Clonic,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Generalized
+10,Male,47.4,175.2,Not on Medication,No,Yes,Normal,0,60,Focal,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Normal
+21,Male,47.0,144.2,On Medication,No,No,Normal,2,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Generalized
+1,Male,60.3,192.8,On Medication,No,Yes,Abnormal,2,60,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Generalized
+53,Male,75.9,163.5,On Medication,Yes,Yes,Normal,2,30,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Generalized
+58,Male,69.9,165.6,On Medication,No,Yes,Abnormal,2,30,Focal,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+77,Female,72.8,169.1,On Medication,No,Yes,Abnormal,10,90,Generalized,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+61,Male,83.1,160.4,On Medication,Yes,No,Not Done,0,60,Focal,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+38,Female,78.6,180.7,On Medication,No,Yes,Normal,0,30,Focal,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Normal
+5,Male,81.0,174.1,On Medication,No,Yes,Abnormal,1,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Generalized
+30,Female,68.4,179.9,On Medication,No,Yes,Normal,1,60,Tonic-Clonic,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Generalized
+37,Female,76.1,175.1,On Medication,No,Yes,Normal,5,30,Absence,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Absence
+37,Male,104.4,171.6,On Medication,No,Yes,Normal,0,30,Generalized,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Complicated
+59,Female,88.8,171.7,On Medication,No,Yes,Abnormal,0,30,Focal,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Focal
+10,Female,70.3,170.5,On Medication,No,Yes,Normal,2,90,Generalized,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Focal
+30,Female,55.5,155.4,On Medication,No,No,Normal,2,30,Focal,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Complicated
+34,Male,39.7,170.9,On Medication,No,Yes,Not Done,0,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Generalized
+76,Male,60.0,163.8,Not on Medication,No,Yes,Normal,0,60,Focal,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Focal
+26,Female,61.2,150.4,On Medication,No,Yes,Normal,2,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Generalized
+55,Male,39.6,169.8,On Medication,No,Yes,Not Done,1,30,Tonic-Clonic,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Generalized
+15,Female,47.4,159.2,On Medication,No,Yes,Abnormal,10,30,Generalized,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Complicated
+70,Male,78.4,159.8,Not on Medication,No,No,Abnormal,2,30,Focal,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Complicated
+29,Female,94.7,188.9,Not on Medication,No,Yes,Normal,0,90,Focal,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Complicated
+20,Male,76.2,169.9,On Medication,No,No,Not Done,0,30,Focal,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Focal
+35,Male,83.8,153.3,On Medication,No,Yes,Normal,5,120,Generalized,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Generalized
+19,Female,99.3,165.1,On Medication,No,Yes,Abnormal,0,30,Focal,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Complicated
+10,Male,90.2,171.5,On Medication,No,Yes,Not Done,1,90,Absence,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Absence
+8,Male,76.2,157.9,On Medication,No,No,Normal,2,30,Absence,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Absence
+22,Male,53.4,165.2,On Medication,No,Yes,Abnormal,0,120,Focal,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Focal
+40,Female,55.0,157.9,On Medication,No,Yes,Normal,1,60,Tonic-Clonic,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Normal
+77,Other,70.2,167.8,On Medication,No,Yes,Abnormal,5,30,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+73,Female,51.0,178.8,On Medication,No,Yes,Normal,5,60,Focal,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Focal
+37,Male,24.9,154.1,Not on Medication,No,Yes,Not Done,0,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Generalized
+57,Female,53.8,170.6,On Medication,No,Yes,Not Done,1,60,Absence,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Focal
+16,Male,58.1,183.7,On Medication,No,Yes,Normal,10,30,Generalized,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+60,Female,38.9,179.2,Not on Medication,No,Yes,Abnormal,0,60,Generalized,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+39,Male,69.8,163.2,Not on Medication,No,Yes,Abnormal,2,90,Generalized,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+52,Male,60.4,159.8,On Medication,No,Yes,Normal,0,60,Tonic-Clonic,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Complicated
+35,Female,78.3,155.7,Not on Medication,No,Yes,Normal,0,30,Focal,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,Generalized
+65,Male,33.8,149.7,On Medication,No,Yes,Abnormal,5,120,Tonic-Clonic,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Generalized
+70,Male,54.7,161.9,Not on Medication,No,Yes,Abnormal,1,90,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Generalized
+64,Male,62.9,159.9,Not on Medication,No,Yes,Abnormal,0,90,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+57,Female,59.2,151.5,On Medication,No,Yes,Normal,3,60,Generalized,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+11,Female,51.6,166.3,Not on Medication,No,No,Abnormal,1,30,Absence,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Absence
+77,Male,78.0,168.1,On Medication,No,Yes,Abnormal,0,30,Focal,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+6,Female,116.1,161.9,On Medication,No,Yes,Normal,5,30,Generalized,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Generalized
+56,Male,61.6,147.3,On Medication,No,Yes,Abnormal,5,30,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+42,Male,76.5,163.0,Not on Medication,No,Yes,Not Done,0,60,Generalized,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Generalized
+78,Male,46.2,175.1,On Medication,No,Yes,Not Done,0,30,Focal,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Generalized
+33,Female,79.5,188.4,Not on Medication,No,Yes,Abnormal,10,30,Focal,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Complicated
+4,Female,69.8,170.3,Not on Medication,Yes,Yes,Abnormal,5,90,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+12,Male,76.6,148.7,Not on Medication,No,No,Abnormal,0,30,Tonic-Clonic,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Generalized
+30,Male,64.4,150.6,On Medication,No,Yes,Abnormal,2,30,Absence,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Absence
+74,Male,68.8,173.8,Not on Medication,No,Yes,Normal,0,60,Generalized,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Normal
+76,Male,96.2,159.6,On Medication,No,No,Normal,1,120,Tonic-Clonic,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Complicated
+3,Female,59.5,158.0,Not on Medication,No,Yes,Not Done,1,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Generalized
+35,Male,43.4,162.4,On Medication,No,Yes,Abnormal,1,30,Focal,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Focal
+74,Male,61.4,161.1,On Medication,No,Yes,Normal,10,60,Focal,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Generalized
+6,Female,85.6,160.5,On Medication,No,Yes,Abnormal,0,90,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Generalized
+23,Male,60.0,181.0,On Medication,No,Yes,Abnormal,1,30,Focal,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Normal
+61,Female,82.3,167.2,Not on Medication,No,Yes,Abnormal,0,60,Tonic-Clonic,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+67,Male,72.4,168.6,On Medication,No,Yes,Normal,0,60,Focal,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Focal
+57,Female,76.0,158.6,Not on Medication,No,Yes,Normal,5,30,Focal,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Not Confirmed
+36,Female,81.4,153.0,Not on Medication,No,Yes,Normal,1,60,Focal,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Focal
+24,Male,57.7,159.9,Not on Medication,No,Yes,Normal,1,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Generalized
+75,Male,57.9,160.3,On Medication,No,Yes,Normal,1,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Generalized
+56,Male,63.7,135.5,On Medication,No,No,Normal,1,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+63,Male,26.4,161.2,On Medication,No,No,Normal,1,90,Generalized,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Generalized
+12,Male,51.1,160.7,On Medication,No,Yes,Normal,5,60,Absence,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Absence
+61,Female,49.5,142.2,On Medication,No,Yes,Not Done,1,90,Focal,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Focal
+45,Male,77.1,178.1,Not on Medication,No,No,Not Done,0,30,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Generalized
+53,Female,69.7,140.8,On Medication,No,Yes,Normal,5,90,Absence,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Absence
+43,Male,68.9,168.7,On Medication,No,Yes,Normal,5,30,Generalized,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Generalized
+42,Female,73.4,163.2,On Medication,No,Yes,Normal,1,60,Absence,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Absence
+14,Female,70.4,155.1,On Medication,No,No,Not Done,0,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Generalized
+21,Female,69.8,154.0,On Medication,No,No,Abnormal,10,30,Focal,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Focal
+43,Female,57.6,165.8,Not on Medication,Yes,Yes,Abnormal,0,30,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+53,Male,92.4,155.9,Not on Medication,No,No,Abnormal,1,60,Generalized,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Complicated
+64,Female,70.1,164.7,On Medication,Yes,Yes,Abnormal,1,60,Focal,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Focal
+37,Female,69.1,153.4,On Medication,No,Yes,Normal,2,30,Focal,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Focal
+52,Female,64.9,165.6,Not on Medication,No,Yes,Abnormal,0,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Generalized
+71,Male,88.0,151.4,Not on Medication,No,Yes,Abnormal,0,90,Generalized,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Generalized
+5,Female,72.5,179.3,On Medication,Yes,Yes,Abnormal,3,30,Tonic-Clonic,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Generalized
+59,Female,39.7,167.4,On Medication,No,Yes,Abnormal,0,30,Focal,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Focal
+12,Female,50.3,166.3,Not on Medication,No,Yes,Normal,2,90,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Generalized
+41,Female,56.5,160.5,On Medication,Yes,Yes,Abnormal,2,60,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+33,Male,89.7,172.6,On Medication,No,Yes,Normal,3,60,Absence,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Absence
+42,Male,61.0,170.6,On Medication,No,Yes,Not Done,1,90,Tonic-Clonic,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Absence
+15,Female,62.5,158.5,On Medication,Yes,Yes,Abnormal,2,90,Generalized,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Generalized
+52,Male,51.1,141.4,On Medication,No,Yes,Normal,1,60,Focal,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Focal
+66,Female,59.6,159.4,Not on Medication,No,Yes,Normal,0,30,Absence,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Absence
+1,Female,80.8,162.2,Not on Medication,No,Yes,Abnormal,5,60,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Generalized
+70,Male,93.6,142.8,On Medication,No,Yes,Abnormal,1,90,Focal,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Focal
+60,Male,76.9,176.2,Not on Medication,No,Yes,Normal,5,60,Generalized,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Normal
+53,Female,60.5,165.0,On Medication,No,Yes,Abnormal,2,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Generalized
+7,Male,58.8,164.4,On Medication,No,Yes,Not Done,0,60,Generalized,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Generalized
+25,Female,49.2,147.8,On Medication,No,Yes,Abnormal,10,30,Focal,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Focal
+67,Male,79.5,167.5,On Medication,No,No,Normal,0,60,Tonic-Clonic,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Generalized
+47,Male,46.1,176.0,Not on Medication,No,Yes,Not Done,0,60,Generalized,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+80,Female,51.2,177.4,On Medication,No,Yes,Normal,0,60,Focal,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+64,Male,58.5,164.1,On Medication,Yes,No,Normal,2,60,Focal,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Complicated
+57,Female,103.8,175.4,On Medication,No,Yes,Abnormal,3,30,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Generalized
+7,Female,61.0,159.6,On Medication,No,Yes,Abnormal,10,60,Focal,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Focal
+27,Male,31.2,167.1,Not on Medication,No,Yes,Normal,3,120,Generalized,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Generalized
+35,Female,98.8,177.9,Not on Medication,No,Yes,Normal,10,120,Focal,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Focal
+71,Male,40.1,161.1,Not on Medication,Yes,Yes,Abnormal,1,30,Focal,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Focal
+17,Male,57.6,165.2,On Medication,No,Yes,Normal,2,60,Generalized,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+37,Male,92.6,160.4,On Medication,No,Yes,Abnormal,3,90,Generalized,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Generalized
+57,Male,76.7,154.7,Not on Medication,Yes,Yes,Normal,0,30,Focal,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Focal
+63,Male,63.2,169.3,On Medication,No,Yes,Normal,0,30,Generalized,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Focal
+16,Male,51.6,179.6,On Medication,No,Yes,Abnormal,5,30,Focal,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Focal
+4,Male,82.7,155.7,Not on Medication,No,Yes,Not Done,3,30,Generalized,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Complicated
+78,Female,66.1,154.8,On Medication,No,Yes,Normal,3,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Generalized
+31,Male,68.0,166.8,On Medication,Yes,Yes,Normal,2,60,Generalized,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Focal
+21,Male,70.4,161.2,On Medication,Yes,Yes,Abnormal,1,60,Focal,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Focal
+40,Male,40.9,155.9,On Medication,No,Yes,Normal,0,60,Generalized,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Generalized
+71,Male,78.4,164.1,Not on Medication,No,Yes,Normal,2,30,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Generalized
+2,Male,70.7,161.0,Not on Medication,No,Yes,Normal,10,90,Generalized,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Generalized
+71,Male,65.0,155.9,On Medication,No,No,Normal,2,30,Generalized,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Generalized
+53,Female,92.8,172.6,On Medication,No,Yes,Not Done,0,60,Generalized,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Focal
+12,Male,68.7,169.4,On Medication,No,Yes,Normal,1,30,Absence,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Absence
+29,Female,41.1,155.8,Not on Medication,No,Yes,Abnormal,1,60,Focal,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Generalized
+15,Male,73.7,163.7,On Medication,No,Yes,Not Done,1,60,Generalized,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Normal
+60,Female,88.8,151.8,On Medication,No,Yes,Normal,0,90,Tonic-Clonic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Generalized
+16,Male,74.4,159.7,On Medication,Yes,Yes,Abnormal,0,30,Generalized,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Generalized
+20,Male,71.5,161.5,On Medication,No,Yes,Abnormal,0,60,Focal,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+64,Female,52.7,183.4,Not on Medication,No,Yes,Normal,1,120,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Generalized
+38,Female,59.1,165.7,Not on Medication,No,Yes,Normal,1,90,Focal,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Focal
+66,Male,79.0,169.6,On Medication,No,Yes,Abnormal,1,60,Generalized,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Normal
+35,Female,76.4,159.2,On Medication,Yes,Yes,Normal,1,30,Generalized,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Generalized
+54,Male,35.0,160.4,Not on Medication,Yes,Yes,Not Done,10,30,Tonic-Clonic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Generalized
+62,Male,57.3,162.9,Not on Medication,No,Yes,Abnormal,0,60,Absence,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Absence
+61,Male,57.0,174.7,On Medication,No,Yes,Abnormal,3,30,Absence,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Absence
+32,Male,67.9,185.3,On Medication,No,Yes,Normal,0,90,Absence,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Complicated
+59,Female,47.1,181.7,On Medication,No,Yes,Normal,0,30,Generalized,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Complicated
+71,Male,54.8,153.7,On Medication,No,No,Abnormal,0,60,Tonic-Clonic,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Normal
+19,Male,93.3,146.6,On Medication,No,Yes,Not Done,2,30,Focal,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Focal
+50,Female,87.7,157.3,On Medication,No,Yes,Abnormal,3,60,Focal,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Complicated
+25,Male,66.3,161.2,On Medication,No,Yes,Normal,1,90,Focal,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Focal
+77,Female,46.5,161.5,On Medication,No,Yes,Abnormal,0,30,Focal,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Not Confirmed
+66,Male,57.2,157.3,On Medication,No,Yes,Normal,0,60,Generalized,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Generalized
+18,Male,62.8,168.5,On Medication,No,Yes,Abnormal,1,60,Tonic-Clonic,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Generalized
+9,Male,86.8,157.9,On Medication,No,Yes,Not Done,3,60,Absence,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Absence
+36,Female,69.2,168.3,On Medication,No,Yes,Abnormal,3,30,Generalized,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Generalized
+54,Female,73.9,168.0,On Medication,No,Yes,Normal,2,90,Focal,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Focal
+44,Female,55.1,171.7,Not on Medication,No,Yes,Not Done,0,60,Focal,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Focal
+65,Female,50.9,169.4,On Medication,No,Yes,Abnormal,10,120,Focal,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Focal
+35,Male,52.4,178.2,On Medication,No,Yes,Normal,1,90,Absence,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Absence
+1,Female,66.5,142.0,On Medication,No,Yes,Not Done,1,30,Absence,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Absence
